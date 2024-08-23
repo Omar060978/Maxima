@@ -129,7 +129,7 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81oYJpqA3kKVGg2h8dLUPoDKafM0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lmx0m5jPe1cVqXgPFFZFuWdTQdb5becnLUc7hb9D0O4/ts
 
-#EXTINF:-1 "ESPN" group-title="⚽ Deportes",ESPN
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN 1
 http://181.204.79.182:8202/play/a01n
 
 #EXTINF:-1 "ESPN" group-title="⚽ Deportes",ESPN
