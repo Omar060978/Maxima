@@ -114,6 +114,10 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lX5eZ2ANfLWx2Nl_tqMPMj-tQr
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hf03zTawdQFgdTXEFQAwY8JoJJ2HfSVpKgjm7jtpP5g/ts
 
+#EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX TV
+#EXTVLCOPT:network-caching=1000
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDiNT2tVSiaxhjqGCCsiB53zR9KNKxHoBZnMAh4xT6c/ts
+
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru SD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vR2_Mmf6Cnn6-estj8qhuXuL9qyy0HVggzU4RNDBZNP/ts
 
