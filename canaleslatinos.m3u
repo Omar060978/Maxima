@@ -11,11 +11,11 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4WFwyP/ATV-SUR-HD.jpg" group-title="Canales Peru",ATV SUR HD
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
-
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -57,16 +57,16 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iVVjzojDgQ7x8UrydYX3_HezLpBxBl_M_aApyvsLil8/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 1
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 2
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 3
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 4
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales Peru",Canal Ipe Peru
@@ -115,8 +115,10 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lX5eZ2ANfLWx2Nl_tqMPMj-tQr
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hf03zTawdQFgdTXEFQAwY8JoJJ2HfSVpKgjm7jtpP5g/ts
 
 #EXTINF:0, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX TV
-#EXTVLCOPT:network-caching=1000
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDiNT2tVSiaxhjqGCCsiB53zR9KNKxHoBZnMAh4xT6c/ts
+
+#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="⚽ Deportes",Liga 1 MAX
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru SD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vR2_Mmf6Cnn6-estj8qhuXuL9qyy0HVggzU4RNDBZNP/ts
@@ -286,9 +288,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUY_c6ca0ujG-G-FjW17e49rWb24k_HxbAQQ&s" group-title="⚽ Deportes",Multivisión Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.namu.wiki/i/UqtxMt-szTBzo6k6eaG_Zcak6S8lIEL-xyG4RZ0cnDhleap-b8m9jUGaQa9RGJgQcMsvu6HnFSxEUPhfKy-kMQ.webp" group-title="⚽ Deportes",Top Gear en Español
-https://jmp2.uk/SamsungTVPlus/ESAJ2900001Y3.m3u8
-
 #EXTINF:-1 tvg-id="RealMadrid TV" tvg-logo="https://yt3.googleusercontent.com/PWiYag_sc2F5ACbm6B9BqE2Wh215KzyqiEEz7y5kQNdmDeqxVIh1MvH74kM7Zh3l5SUdvG8r=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
@@ -325,7 +324,7 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81nZ70UvU6poSzVLE5dD6678/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPveleEO7q4rahRa6ntzk0BfaRxT95xSPKCA&s" group-title="Cine Premiun",NETFLIX FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81pXrdQpPq6-91se3NZX13uc/ts
 
-#EXTINF:-1 tvg-logo="https://gumlet-images.assettype.com/afaqs/2024-05/b12a4081-c183-4a23-b402-bd7f4d5de2eb/Amazon_ads.png?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0" group-title="Cine Premiun",AMAZON PRIME FHD
+#EXTINF:-1 tvg-logo="https://images.hitpaw.com/topics/video-enhancer/amazon-prime-video-quality-1.jpg" group-title="Cine Premiun",AMAZON PRIME FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81u_GM7jjd_omVmUTcXQbo8U/ts
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
@@ -421,11 +420,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="CineXOXO.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/05/30/PLUTOCineXOXO_Channel_1080x1080_HeroSquare-srcdbued.png" group-title="Cine Standar",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 1
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6f717fa4a714631b839835a3ada50366cb9d25fbf0e2f5b2ec2cb2fd29617386.png" group-title="Cine Clasico",Grjngo - Películas Del Oeste
-https://jmp2.uk/SamsungTVPlus/ESBC2700002LO.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 2
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -445,9 +444,6 @@ https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DpTYi3WkwJIWNfPZIBonDsYJGL8f6Pp4yKbET7k7_XVvNMWkwNKXmRYiKCpQzSyPdYQ" group-title="Cine Standar",MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/katedemianov/katedemianov1709/katedemianov170900065/85708990-c%C3%A1mara-de-cine-vintage-cartel-en-estilo-vintage-cine-retro.jpg" group-title="Cine Clasico",Cine Retro
-https://jmp2.uk/SamsungTVPlus/USBD2500022U5.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdbTN87f7ZwM2s3-4YOBjKba42M1o5xcD4Q&s" group-title="Cine Standar",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -545,12 +541,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://nowmusic.com/cdn/shop/products/SharedImage-125946.jpg?v=1686626973" group-title="Musicales",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://rlaxxtv.com/wp-content/uploads/2022/06/vevolatino_colour.png" group-title="Musicales",Vevo Latino
-https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Musicales",Vevo '70s & '80s
-https://jmp2.uk/SamsungTVPlus/ESBD230000289.m3u8
-
 #EXTINF:-1 tvg-id="RTLGold.lu" tvg-logo="https://cdn-profiles.tunein.com/s323778/images/logog.png?t=1683160306000" group-title="Musicales",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 
@@ -559,12 +549,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgrat
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp_qveHTYRvKpZTMfO6DxNvX39oBTe16tBw&s" group-title="Musicales",Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://c-1y15z120-t12c.ayozat.com/tvchannels/HFQFRiCjd3F3wApZDxdNTKBGvg7oA1sRakxoX1zh.jpg" group-title="Musicales",Stingray Greatest Hits
-https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
-
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f8ee3c6f-c2f5-495f-917e-97a311c1dd18/8530_SM_Plex_Music-Channels_1920x1080-Today_s_K-Pop.jpg" group-title="Musicales",Stingray Today's K-Pop
-https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
 
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Cine Standar",Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -596,13 +580,10 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmGzU-S8lMy1w5SCvGcaADVnJ8xtZOmWogA&s" group-title="Entretenimiento",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KB9aSO7L9yX_OK9phdpWKLA22wsodmEHnjSWmz9zt61Qoj49ancElFLPPKqLWrYAkjU=w526-h296-rw" group-title="Entretenimiento",Multicanal Televisión
-https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq19O16DYLgKuKlPj3x_RIkNdN_5RLyydCsA&s" group-title="Entretenimiento",MDA Televisión
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/Yg2O5n2xkwcBl04M/logo-stz-telebista-fondo-ALp0bKLkq8cJ061P.png" group-title="Musicales",STZ Telebista
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxSaPy6Fm1094-r5Fb-GeJqgY4cqsNBjbZQ&s" group-title="Musicales",STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhujq6FnVzaPbcXN5QcD4ODdN-qovYXce0XQpMIL-XyhSzXBYzw7U701_619JvYbOCqikb9adWXUiIAWt26p8E3iy-hlaoi5VkzKndNg9tJhuVqAwcogs-LBFNdGPPi-vG8fc_OD8C7IxE/s580/tv-exitos-canal-roku.jpg" group-title="Musicales",TV Exitos
@@ -634,9 +615,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01719318650613.png" group-title="Niños",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="Niños",Disney
 http://168.181.122.234:8000/play/a038/index.m3u8
@@ -710,9 +688,6 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzw7eOp-bWXjRR_eDKfhgihkT3H7mnc8tcw&s" group-title="Musicales",interTV
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="Culturales",Inti TV
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png" group-title="Cine Standar",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -722,8 +697,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/uUDVAqZNNYIdwhD_5n3zGbTyLpufAe6gskMgp9BroYQ.jpg" group-title="Novelas",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzndGgQBnpcd-zgQZw2Zs_vbVn58uH8njY7g&s" group-title="Novelas",Todo Novelas
-https://jmp2.uk/SamsungTVPlus/ESBC43000013T.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tlnovelas_m.png" group-title="Novelas",TLNOVELAS HD
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81uRIS9vXNZ0bfk8Y16ekcJs/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
@@ -743,17 +718,11 @@ http://181.204.79.182:8202/play/a03q
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Novelas",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/BpTrwUnCcAA3LXX.jpg" group-title="Novelas",Galanes TV
-https://jmp2.uk/SamsungTVPlus/USBD2700002DU.m3u8
-
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81trYyOWPYJ3pbNDep4ghegc/ts
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJDIbGa0TrEDjKnypr2vkbBpbJiyjsI4scw&s" group-title="Novelas",Como Dice el Dicho
-https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/eUhx6RYiv0.lmQ06raI1UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM0NQ--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Novelas",La Rosa de Guadalupe
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81v_Z3f8hB2_FrB4MqeNQSwazeqdyYYogaMZH5KJdBtrM/ts
@@ -833,7 +802,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhiXyIky3I1jdX0atfQJosoCtKBaF_GMkvfQ&s" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2022/07/06/9D1AF07F-AE92-4EB3-A793-B87D433BEE89/antena-3_96.jpg?crop=1920,1080,x0,y0&width=1200&height=675&optimize=low&format=jpg" group-title="Entretenimiento",ANTENA 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzfTJOz2iT9HpZYFGCoCCt_c2uDXi4qecYQ&s" group-title="Entretenimiento",ANTENA 3 HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kFzdr8ZW-UfUvzkyRSXgtg/ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OvvPnN3nn-7mtVjZzOX-3gL1Lbxupbz6Z9nNDMfWvMFBr8coK3B-ghwpX4fxhT69qOa5BCqEvw=s900-c-k-c0x00ffffff-no-rj" group-title="Cine Standar",Univers TV
