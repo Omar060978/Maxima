@@ -49,7 +49,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iHFzlZPnXkK5C2agFWIhGI/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV HD
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iX-P2AnqXdZQbqgOsHcLu0/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
