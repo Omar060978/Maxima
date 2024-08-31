@@ -42,10 +42,9 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81jC-J0Ar4JG9pdHNebSq8YU/ts
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81oAVYqJnwFrX6iR43bAkwlo/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV HD
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV HD
-#EXTVLCOPT:network-caching=1000
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iHFzlZPnXkK5C2agFWIhGI/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV HD
@@ -186,17 +185,26 @@ http://181.205.130.194:4000/play/a07s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg" group-title="⚽ Deportes",ESPN 7
 http://181.204.79.182:8202/play/a01w
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Perú
+#EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
+http://187.102.208.83:50000/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Perú 1
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81mHkKWmXIP03QmNzrslwBaBLGzYywMnFpIdSixbok1Xq/ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Perú 2
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vPQdbuLcG_f1PFDwK6pWZM/ts
+
+#EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFmOIxGPFEYb_eLfOp8WTA8-o6fjeQHNLMA&s" group-title="⚽ Deportes",Directv Sports +
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",DIRECTV SPORTS ARGENTINA HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81omfRiX0FpwEEm8cTGUoqbM/ts
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports SD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vPQdbuLcG_f1PFDwK6pWZM/ts
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports FHD
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Fights FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
+
+#EXTINF:-1 tvg-logo="https://www.elfinanciero.com.mx/resizer/nQm5qEGllF9dJnsyOzXsa2-jIO4=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/26RXT5RI5BC4ZGT7JCPKVJTPKY.jpeg" group-title="⚽ Deportes",FOX SPORTS PREMIUM HD
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81s5Zaz9vOZWd4T3yxy0QMBc/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81q_ZRIFRzA3kTdBSVxuISg0/ts
@@ -210,13 +218,16 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81l-VfQk8evmBYiriP6CV2sk/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS INTERNACIONAL
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vOpPcySaqPnod8_zM72pdo/ts
 
-#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_cdc739a75053a86fbc0af214609bf344.png" group-title="⚽ Deportes",Telemundo WEST Deportes
+#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_cdc739a75053a86fbc0af214609bf344.png" group-title="⚽ Deportes",Telemundo Deportes
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81sc2xtb7v48i7eGVDA9fYMM/ts
+
+#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMJFHKdDjertl5nlvy32-_wzhmuMeH0odDw&s" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lFzooAmlHz7MrwdYeuf020/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",DAZN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tH-aHwa1P1Yj_LEgS_Ih18/ts
 
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
@@ -249,7 +260,7 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDmroxX-fV30lQw7Yu5eUw/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS LATINO HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tSCEQJWT4gIy0yUDT8UbaY/ts
 
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORT ESPAÑOL
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS HD
