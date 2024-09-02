@@ -12,16 +12,16 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",América Televisión
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81q4CRmns7RQIZbjwcw4h8ls/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81k-6_5I6x6mrLcMENwLcYhlbyp3JrsQiCo9W725BxxDa/ts
 
-#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="PE: America" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iZLo0-Hl_ouBUUrBo9fkjs/ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81gTaUc5noM-Bxbcbf0IoqYuz2hG2g9y46Xp0gPVpBqm0/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qLhk3b42OOz4G5ohC5tTghcIAYPYRusFjRQntJCHVkn/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qUetUInmGMAFiSQmmdKr1jdNn_gh-0SEtWGmKmFD2qe/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -30,25 +30,25 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N SD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iS2uwqd7YMVrJ_txECflsk/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81r--2woiOcFjxQlVOfrU99kWgNf2kpqSzQwcPB3Ez040/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N HD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81uDHV8DmO5K_hlMB-4mUl_0/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81nA5X20voYrgRyvj4OlB5B5yIgVYAlnb2OkL4l9BrgWs/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81oAVYqJnwFrX6iR43bAkwlo/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81jwvQKjb5170WQ_lIfUwkwyg9xJ6j7qHFTt36mCqoRpd/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV HD
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81truwFmheQrxfIVOgz-5-oejSEvwZ9bY61yc4cANpPAf/ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iHFzlZPnXkK5C2agFWIhGI/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV HD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iX-P2AnqXdZQbqgOsHcLu0/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lnAMxRs_gorTXwU_NKf7H0Qsk5oOGTB7Ynpy3HTAihF/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -57,7 +57,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iVVjzojDgQ7x8UrydYX3_HezLpBxBl_M_aApyvsLil8/ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="Canales Peru",TV Peru 1
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kTRTWgYuYRuC-B9M6tT5iA/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81tM3O0BliSLivZE2ELwzVVUhDQl1fMIOasd9lJ3dLA-8/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru 2
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -120,13 +120,16 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDiNT2tVSiaxhjqGCCsiB53zR9
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru SD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vR2_Mmf6Cnn6-estj8qhuXuL9qyy0HVggzU4RNDBZNP/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vR2_Mmf6Cnn6-estj8qhuXuL9qyy0HVggzU4RNDBZNP/ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru HD
 http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81ieczwCAVUJGqmbYmSPhQgfsNtGV-zynzLF_odsYYaz2/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png" group-title="⚽ Deportes",Gol TV HD
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81r9Fp0YSQTtV0iS7ZHgnjKE/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes HD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81oYJpqA3kKVGg2h8dLUPoDKafM0NmED-B8Vb6lPVE4IV/ts
@@ -221,7 +224,7 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vOpPcySaqPnod8_zM72pdo/ts
 #EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_cdc739a75053a86fbc0af214609bf344.png" group-title="⚽ Deportes",Telemundo Deportes
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81sc2xtb7v48i7eGVDA9fYMM/ts
 
-#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
+#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMJFHKdDjertl5nlvy32-_wzhmuMeH0odDw&s" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
