@@ -396,7 +396,7 @@ http://181.204.79.182:8202/play/a034
 http://181.204.79.182:8202/play/a032
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner
-http://181.205.130.194:4000/play/a07f
+http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner
 http://181.204.79.182:8202/play/a01j
@@ -523,7 +523,7 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vXmVc6bf7YPwjLRoM7ecCI/ts
 http://181.204.79.182:8202/play/a00j
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX HD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81j2iw8C6AlXxN0abDPtfLEA/ts
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81raodEf5YeEDz6Tz73kLOIc/ts
