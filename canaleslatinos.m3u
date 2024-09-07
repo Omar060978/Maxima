@@ -296,9 +296,6 @@ http://nxt.plus:8080/olmos/1234guz/7
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/a1/30/14/a130148b1361acb34c337e9934374ea5.jpg" group-title="⚽ Deportes",Plus TV
-http://nxt.plus:8080/olmos/1234guz/13229
-
 #EXTINF:-1 tvg-id="Peleas de Box Clasicas" tvg-logo="https://static.vecteezy.com/system/resources/previews/007/955/130/non_2x/boxing-logo-free-vector.jpg" group-title="⚽ Deportes",Peleas de Box Clasicas
 https://lnc-top-rank.tubi.video/playlist.m3u8
 
