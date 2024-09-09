@@ -18,7 +18,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81k-6_5I6x6mrLcMENwLcYhlbyp3JrsQiCo9W725BxxDa/ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81gTaUc5noM-Bxbcbf0IoqYuz2hG2g9y46Xp0gPVpBqm0/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81kx4WJ1RNvp61iR10IWcbGmg5qc--7k5rcZkRIBd2TFg/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qUetUInmGMAFiSQmmdKr1jdNn_gh-0SEtWGmKmFD2qe/ts
@@ -55,9 +55,6 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lnAMxRs_gorTXwU_NKf7H0Qsk5o
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iVVjzojDgQ7x8UrydYX3_HezLpBxBl_M_aApyvsLil8/ts
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="Canales Peru",Perú Magico HD
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81q1l8HB5lPsP_LFVWNHYNvbfqvhpeG36PixUBQTJf7gq/ts
@@ -236,11 +233,11 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81sc2xtb7v48i7eGVDA9fYMM/ts
 #EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMJFHKdDjertl5nlvy32-_wzhmuMeH0odDw&s" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lFzooAmlHz7MrwdYeuf020/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i_5NY_J5xU1SE21SXRRHBXNxAAcAjiHCJoM-tBoPwDw/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tH-aHwa1P1Yj_LEgS_Ih18/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81pcKp6Kr1XnGWE-HhyhEmxRE-D-o6QNNVo_JFvndTNJ3/ts
 
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
@@ -492,9 +489,6 @@ https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fca873ea9-4139-485b-870b-a9047fefce98%2FFreeTVAction_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="Cine Standar",Free Tv Action
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/42de1802c78eda095c24da5c630c2426.webp" group-title="Cine Standar",Voz de Poder Television
-https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPsoBxWDWYaP59aELUi9ekudNOAONyN11Q&s" group-title="Cine Standar",Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
@@ -502,10 +496,19 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Cine Premiun",A&E
-http://redima.pro:8880/5555/5555/357
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81m-mFNoj0qX21b8M4h2GiXg/ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E Mundo
 http://181.205.130.194:4000/play/a07n
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81gAjGzMTu9CWlwjnu-ahkU4/ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Clasico",GOLDEN PLUS
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vfNV4l_ou8BfDRHOLa85Q0/ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/w1200-h630-p-k-no-nu/golden-premier.jpg" group-title="Cine Premiun",GOLDEN PREMIER HD
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81tqTH6TiZvAcCUWuHrsf4Ag/ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Cine Premiun",CLOVER CHANNEL
 http://160.20.165.246:8000/play/a006/index.m3
@@ -672,9 +675,6 @@ https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="Niños",ANIME STATION TV HD
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Niños",Etc TV
-http://45.238.20.83:8000/play/a1af
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f7cd31de6ccf57743fc8941e725c1327de4cff8566c64a5abfc76b6ca1019195.jpg" group-title="Niños",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -689,9 +689,6 @@ https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczYzQwNzQtNDkwYi00ZGE2LTgzOGQtMTg0ZjBjOTAzNWJiXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="Niños",Chespirito
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81m37vFOvby3l22O7Qpio7vvVi52UuXoZkYjts4BmRrwk/ts
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l6EZQXMCjEzIO4OS-Xp8twb0H4lOrQrBWrC-85QOrLwbCsbH4Z0H-r-G_rCONpejQsM" group-title="Entretenimiento",Doble C Televisión
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVQTwE_eyqyyv1BK8ZCA9uKob0Sch8pq8Vg&s" group-title="Entretenimiento",Jefes de la Cocina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
@@ -848,9 +845,6 @@ https://www.milenial.news/salida/milenial.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Culturales",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qmWPkRK3scKTEaA-GaBJ0UU_T2ZstZimlA&s" group-title="Culturales",Euronews en directo
-https://jmp2.uk/SamsungTVPlus/ESAJ4500024LR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel
 http://181.205.130.194:4000/play/a0b6
