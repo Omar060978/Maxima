@@ -329,6 +329,9 @@ http://181.78.105.146:6060/play/a00l
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO XTREME SD
 http://181.204.79.182:8202/play/a02w
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE FHD 
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81mDqL2G438LsvAPgqsQnkhM/ts
+
 #EXTINF:-1  tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",Paramount HD
 http://181.205.130.194:4000/play/a09l
 
@@ -504,7 +507,7 @@ http://181.205.130.194:4000/play/a07n
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81gAjGzMTu9CWlwjnu-ahkU4/ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Clasico",GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Premiun",GOLDEN PLUS
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vfNV4l_ou8BfDRHOLa85Q0/ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/w1200-h630-p-k-no-nu/golden-premier.jpg" group-title="Cine Premiun",GOLDEN PREMIER HD
