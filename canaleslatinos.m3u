@@ -136,6 +136,7 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81ieczwCAVUJGqmbYmSPhQgfsNtGV-zynzLF_odsYYaz2/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png" group-title="⚽ Deportes",Gol TV HD
+#EXTVLCOPT:network-caching=1000
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81r9Fp0YSQTtV0iS7ZHgnjKE/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes HD
