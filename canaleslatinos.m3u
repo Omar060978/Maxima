@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV 1
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV 2
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81uKMgdK6Qv_Psz5EeR4Gyl88abKcAADjgbID45OSR7Oq/ts
@@ -56,6 +56,9 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lnAMxRs_gorTXwU_NKf7H0Qsk5o
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w2023509337.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="Canales Peru",Perú Magico HD
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81q1l8HB5lPsP_LFVWNHYNvbfqvhpeG36PixUBQTJf7gq/ts
