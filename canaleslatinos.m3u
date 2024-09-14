@@ -209,17 +209,23 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81sPtiIex8KZHimwXFn-nVSU/ts
 #EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81kwKGo_hsjmnhyAfkBMlWrQ/ts
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Perú 1
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 01
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qmGvHcavPjtBveqwVX3cJk/ts
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Perú 2
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 02
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 03
+http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81omfRiX0FpwEEm8cTGUoqbM/ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 01
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iY4GWXXn3E7nZBoM3fDvl4/ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 02
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qKnKJHBbLZczcjolcW88u0/ts
 
 #EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFmOIxGPFEYb_eLfOp8WTA8-o6fjeQHNLMA&s" group-title="⚽ Deportes",Directv Sports +
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",DIRECTV SPORTS ARGENTINA HD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81omfRiX0FpwEEm8cTGUoqbM/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ti1dOSApbNO1_sk43Ib1f0/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Fights FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
