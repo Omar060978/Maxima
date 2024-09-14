@@ -230,14 +230,14 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ti1dOSApbNO1_sk43Ib1f0/ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Fights FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
 
-#EXTINF:-1 tvg-logo="https://www.elfinanciero.com.mx/resizer/nQm5qEGllF9dJnsyOzXsa2-jIO4=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/26RXT5RI5BC4ZGT7JCPKVJTPKY.jpeg" group-title="⚽ Deportes",FOX SPORTS 1 FHD
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ Deportes",FOX SPORTS 1 FHD
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ius6zoKYhOQGh8KN2XMN6AJlL_IoMlaJ2NpNDtbhZrv/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 FHD
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339661
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ouZ5aiTdxKPNn9ERvvqRWmHej0JkcTwaVzlwGMwbmvK/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 FHD
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339663
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t4oH1m5G2N42G1Y8O0fLUI/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽ Deportes",Fox Sports Premiun
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81s5Zaz9vOZWd4T3yxy0QMBc/ts
@@ -269,46 +269,49 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 01 
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81h_N6VMwlYgH6pFrWrxDSSLDNcndvmRMuvMsam56Lw7A/ts
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="⚽ Deportes",SporTV 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81pdxewKZCzNxJ-lPKpXUmAI/ts
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="⚽ Deportes",SPORTV 02
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ouxHOqfJ3FnkZO_1mSUACE/ts
 
-#EXTINF:-1 "Teledeporte" tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",Teledeporte
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 03 
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81rlM-FedtQnrpMSKM53XQDw/ts
+
+#EXTINF:-1 "Teledeporte" tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",TELEDEPORTES OPC 1
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81upKWEGjq5bdAQKNQLhYz82h3DACMTjyVpiJPjSPEfj_/ts
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",TELEDEPORTES HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",TELEDEPORTES OPC 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81qTFYH7HVroQptqPGx-Tjn6jvgmtySSY86x02dnenQ5J/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",Claro Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 1
 http://181.205.130.194:4000/play/a06o
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS LATINO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDmroxX-fV30lQw7Yu5eUw/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS LATINO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 3
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tSCEQJWT4gIy0yUDT8UbaY/ts
 
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 1
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iC4mPaKgW4U9r5ArdSTRW4/ts
 
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iC4mPaKgW4U9r5ArdSTRW4/ts
 
-#EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO SD
+#EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 1
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81jRsqI8nYS-FJgI-ycFyONE/ts
 
-#EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO HD
+#EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tjSJbPI8smDDmP0rOgCk7c/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17bwckR1svXpSYbMIjZLI-YMqtFZVXPHUil3hT_Jqnim1VJT1CZ7JNkhuRgbCUh5eLl4&usqp=CAU" group-title="⚽ Deportes",Win
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17bwckR1svXpSYbMIjZLI-YMqtFZVXPHUil3hT_Jqnim1VJT1CZ7JNkhuRgbCUh5eLl4&usqp=CAU" group-title="⚽ Deportes",Win Sports OPC 1
 http://181.204.79.182:8202/play/a026
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="⚽ Deportes",Win Sports+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="⚽ Deportes",Win Sports OPC 2
 http://181.205.130.194:4000/play/a0ay
 
-#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ Deportes",TNT SPORTS 2 (CL)
+#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ Deportes",TNT SPORTS 
 http://nxt.plus:8080/olmos/1234guz/7
 
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
@@ -320,16 +323,13 @@ https://lnc-top-rank.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SPk1ER3wSqx1NoiTrASIB5bzVEKxaL7imE5c74828bXDy1kjsBTACGmD43QmYR5cyGi4y02G7-M=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUY_c6ca0ujG-G-FjW17e49rWb24k_HxbAQQ&s" group-title="⚽ Deportes",Multivisión Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-
 #EXTINF:-1 tvg-id="RealMadrid TV" tvg-logo="https://yt3.googleusercontent.com/PWiYag_sc2F5ACbm6B9BqE2Wh215KzyqiEEz7y5kQNdmDeqxVIh1MvH74kM7Zh3l5SUdvG8r=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO OPC 1
 http://181.204.79.182:8202/play/a01z
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO OPC 2
 http://181.205.130.194:4000/play/a08u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine Premiun",HBO 2
@@ -338,25 +338,25 @@ http://181.204.79.182:8202/play/a02u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3qj8Jxxit0e98w5jgCnH1lylzetWIFbLug&s" group-title="Cine Premiun",HBO PLUS
 http://181.204.79.182:8202/play/a02v
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family OPC 1
 http://181.204.79.182:8202/play/a02x
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family OPC 2
 http://181.78.105.146:6060/play/a00k
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO Xtreme OPC 1
 http://181.78.105.146:6060/play/a00l
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO XTREME SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO XTREME OPC 2
 http://181.204.79.182:8202/play/a02w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE FHD 
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81mDqL2G438LsvAPgqsQnkhM/ts
 
-#EXTINF:-1  tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",Paramount HD
+#EXTINF:-1  tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",PARAMOUNT
 http://181.205.130.194:4000/play/a09l
 
-#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",PARAMOUNT+ FHD
+#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",PARAMOUNT + 
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81nZ70UvU6poSzVLE5dD6678/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPveleEO7q4rahRa6ntzk0BfaRxT95xSPKCA&s" group-title="Cine Premiun",NETFLIX FHD
@@ -371,19 +371,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX
 http://181.204.79.182:8202/play/a024
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 1 
 http://181.204.79.182:8202/play/a00m
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 2
 http://181.205.130.194:4000/play/a06n
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Cine Premiun",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Cine Premiun",AMC OPC 1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cine Premiun",AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cine Premiun",AMC OPC 2
 http://181.205.130.194:4000/play/a09j
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" group-title="Cine Premiun",AMC en Español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" group-title="Cine Premiun",AMC OPC 3
 https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F53937dc6-74e0-422d-b8aa-0f1c91785ccb%2Famc_horizontal_spanish.jpg" group-title="Cine Premiun",AMC Plex
@@ -449,7 +449,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CnBVdrh/SEO-TV-PELICULAS-FHD-NEW.jpg" group-title="Cine Standar",SEO TV PELICULAS HD
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhC7D1P/AMERICA-TV-HD.jpg" group-title="Cine Standar",AMERICA CINE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhC7D1P/AMERICA-TV-HD.jpg" group-title="Entretenimiento",AMERICA TV | ARGENTINA
 https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4MOC4k1XKjZFUHHzimOe0x8rwblJSXbM801MPeii-POibuJ2zQNKN4sKaKumX9ysHA0&usqp=CAU" group-title="Cine Standar",Neo TV
@@ -458,16 +458,16 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="CineXOXO.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/05/30/PLUTOCineXOXO_Channel_1080x1080_HeroSquare-srcdbued.png" group-title="Cine Standar",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 01
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 02
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine 01
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine 02
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&s" group-title="Cine Standar",Imagen Universal TV
