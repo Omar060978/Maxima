@@ -131,7 +131,7 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hDwRB8V2uet6B07ZCfGWCGLZIVK
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 03
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qZdqbTVc-8-EaXJWiqlwuWpBPqMGfTqr3kIgBSVFAVk/ts
 
-#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga 1 MAX 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga 1 MAX OPC 04
+#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga MAX OPC 04
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81sleioU4NlYorT8h0S1KH52j1XVu8SwuiI3lIRxzrGW1/ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 01
@@ -242,10 +242,10 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t4oH1m5G2N42G1Y8O0fLUI/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽ Deportes",Fox Sports Premiun
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81s5Zaz9vOZWd4T3yxy0QMBc/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s" group-title="⚽ Deportes",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s" group-title="⚽ Deportes",TYC SPORTS OPC 1
 http://45.232.176.17:8000/play/a02g
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vOpPcySaqPnod8_zM72pdo/ts
 
 #EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_cdc739a75053a86fbc0af214609bf344.png" group-title="⚽ Deportes",Telemundo Deportes
@@ -260,13 +260,16 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i_5NY_J5xU1SE21SXRRHBXNxAAc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81pcKp6Kr1XnGWE-HhyhEmxRE-D-o6QNNVo_JFvndTNJ3/ts
 
+#EXTINF:-1 tvg-id="Sky Sports Bundesliga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports Bundesliga
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i7QUfzXg3a67-61IrjXKIjXoyXeM3BXtke7a6b8Miu9/ts
+
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE OPC 01
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE OPC 02
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 01 
