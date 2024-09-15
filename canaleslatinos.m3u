@@ -239,6 +239,9 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ouZ5aiTdxKPNn9ERvvqRWmHej0J
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 FHD
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t4oH1m5G2N42G1Y8O0fLUI/ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="⚽ Deportes",FOX DEPORTES
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81s9VcRNALzxDogSn3sb6AIA/ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽ Deportes",Fox Sports Premiun
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81s5Zaz9vOZWd4T3yxy0QMBc/ts
 
