@@ -216,7 +216,7 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qmGvHcavPjtBveqwVX3cJk/ts
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 3
-https://d2hpc3rszq.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=fb83fb0e172c8081bb40c41c101d2ee94eba4c1b-f5415bd6d9b7fe4f148ff218c6b5efb6-1726740721-1726704721
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lPP65cQtOAZZjrD-taSBtQ/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 1
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iY4GWXXn3E7nZBoM3fDvl4/ts
@@ -225,7 +225,7 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iY4GWXXn3E7nZBoM3fDvl4/ts
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qKnKJHBbLZczcjolcW88u0/ts
 
 #EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFmOIxGPFEYb_eLfOp8WTA8-o6fjeQHNLMA&s" group-title="⚽ Deportes",Directv Sports +
-https://yxdlc29tzq.la10tv.com/dsportsplus/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=f05844830294c65e0fb4214d8c6fdfabea35c47c-fb59663710d464659a9ba40757bd0bb8-1726741753-1726705753
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81meTl05VTvdbUOWfg3IDFrrAR7zBf8oonyrKDEb7FJFZ/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Fights FHD
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
@@ -263,11 +263,11 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i_5NY_J5xU1SE21SXRRHBXNxAAc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81pcKp6Kr1XnGWE-HhyhEmxRE-D-o6QNNVo_JFvndTNJ3/ts
 
-#EXTINF:-1 tvg-id="Sky Sports OPC 1" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga 0PC 1
+#EXTINF:-1 tvg-id="Sky Sports OPC 1" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports BUNDESLIGA
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i7QUfzXg3a67-61IrjXKIjXoyXeM3BXtke7a6b8Miu9/ts
 
-#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga 0PC 2
-http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i7QUfzXg3a67-61IrjXKIjXoyXeM3BXtke7a6b8Miu9/ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE OPC 1
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
@@ -300,16 +300,19 @@ http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDmroxX-fV30lQw7Yu5eUw/ts
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tSCEQJWT4gIy0yUDT8UbaY/ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iC4mPaKgW4U9r5ArdSTRW4/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t94DVG_IGNLz77qjuZjbRg/ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iC4mPaKgW4U9r5ArdSTRW4/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vlsZKkUvDn5ji_8WlJiF3Z5ElUE0UZrBnrszCiPPZLN/ts
+
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS USA
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81l57bL_8dYXCVLZ_qpUa-FU/ts
 
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 1
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81jRsqI8nYS-FJgI-ycFyONE/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81nOK1dNKV0wFAuwPACeE7adElKN5wxd5ZAjGa5Tno8mo/ts
 
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81tjSJbPI8smDDmP0rOgCk7c/ts
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lE2hFWTGSnyZZk3gQILlAViHOZ04A2ubLERF44e7vnu/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17bwckR1svXpSYbMIjZLI-YMqtFZVXPHUil3hT_Jqnim1VJT1CZ7JNkhuRgbCUh5eLl4&usqp=CAU" group-title="⚽ Deportes",Win Sports OPC 1
 http://181.204.79.182:8202/play/a026
