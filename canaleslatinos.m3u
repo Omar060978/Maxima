@@ -86,6 +86,9 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81p5AMI5r8L5_vPfOpx-v5zhtAtyH
 #EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales Peru",Canal Ipe Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/640px-Congreso_TV.png" group-title="Canales Peru",CONGRESO TV
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ACANALCONGRESO&content-expiration=1727396280&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727396280&signature-hash=de25ae1d2e81f101223ae9ff3ba0c8df6cfac146874e2e9508cbbcf90f5d6f69
+
 #EXTINF:-1 tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="Canales Peru",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
@@ -400,6 +403,12 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9HLagXxO1-DXMSVdZwekHx_FhUxzb4hIjx2smo0NdfwB3pYZqwWhLZQsdys4A7CZJ--q8Gr9SKI=s900-c-k-c0x00ffffff-no-rj" group-title="Cine Premiun",Lifetime
 http://181.205.130.194:4000/play/a06u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 1
+http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81uiXS4z4Puh8Zbo0PS_xalR9Ix5q9jLzRwgOyjVnWxAm/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1727396280&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727396280&signature-hash=e79b88ac0e847fdcdd821b648ff17185834d75eaddaddba7d0aee6fe1a5c20b9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
 http://181.204.79.182:8202/play/a030
