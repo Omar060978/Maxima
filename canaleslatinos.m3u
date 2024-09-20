@@ -3,7 +3,7 @@
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81uKMgdK6Qv_Psz5EeR4Gyl88abKcAADjgbID45OSR7Oq/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180908.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -15,13 +15,13 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVM
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",América TV OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81k-6_5I6x6mrLcMENwLcYhlbyp3JrsQiCo9W725BxxDa/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180901.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV OPC 2" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=a8f3687e8b9b03dc71a2eb43de923373004bc85c52bdbdb6443dfe590cc84d75
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qUetUInmGMAFiSQmmdKr1jdNn_gh-0SEtWGmKmFD2qe/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180898.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1727456640&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727456640&signature-hash=a1928255e3639f09a20bdfc7567b821ecdeb1d5923c220cc1fa4bf1a25a67e38
@@ -48,10 +48,10 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ARPP&
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=7e9ee6efecb4349c32d77b95f4b75a5cf49c61f0f592e5adab4c47e88a01ca72
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81mcQ8byCLypk1hF0IXnbjmYbfS9l_WrkgsJ81FnfKtIV/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180919.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lnAMxRs_gorTXwU_NKf7H0Qsk5oOGTB7Ynpy3HTAihF/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180921.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=cab19bcc1e87e720fcedc3d954ac20960dc74938a6dfdcdd808b58ebfd2a1351
@@ -126,34 +126,34 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81onYevDf46gnyRNWRFw7f_HGIcCF1A8SMsKNB_YdobPd/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178646.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hDwRB8V2uet6B07ZCfGWCGLZIVK-nfLg2LOQQ8PCEjx/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178647.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 3
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qZdqbTVc-8-EaXJWiqlwuWpBPqMGfTqr3kIgBSVFAVk/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
 
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga MAX OPC 4
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81sleioU4NlYorT8h0S1KH52j1XVu8SwuiI3lIRxzrGW1/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178649.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vR2_Mmf6Cnn6-estj8qhuXuL9qyy0HVggzU4RNDBZNP/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178643.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 2
 http://200.60.124.19:29000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 3
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81ieczwCAVUJGqmbYmSPhQgfsNtGV-zynzLF_odsYYaz2/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178644.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png" group-title="⚽ Deportes",Gol TV HD
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81r9Fp0YSQTtV0iS7ZHgnjKE/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lmx0m5jPe1cVqXgPFFZFuWdTQdb5becnLUc7hb9D0O4/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178639.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81lmx0m5jPe1cVqXgPFFZFuWdTQdb5becnLUc7hb9D0O4/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178639.ts
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN Chile OPC 1
 http://181.204.79.182:8202/play/a01n
