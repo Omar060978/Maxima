@@ -122,7 +122,7 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178646.ts
+https://bwfrzq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=eb20ea546adf333d68f0d59842db33845d913ac2-afc128f547ba6a1489970cada63c30ca-1726974560-1726938560
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 2
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178647.ts
@@ -134,7 +134,7 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178649.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178643.ts
+https://server4.betzta.com/golperu/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=0bdf51feb45e9b85c9e07de23d9e543b9fff5746-83e5a737037d54f4fdb2636570859211-1726950208-1726939408
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 2
 http://200.60.124.19:29000/play/a00b/index.m3u8
@@ -209,7 +209,7 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81sPtiIex8KZHimwXFn-nVSU/ts
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81kwKGo_hsjmnhyAfkBMlWrQ/ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qmGvHcavPjtBveqwVX3cJk/ts
+https://cxvpy2s.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=62fdbf681dc1eccb3ff57aab19f576ff704d6631-ea950ae0bef88bf1b017968b8d4e7840-1726975812-1726939812
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 2
 http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
