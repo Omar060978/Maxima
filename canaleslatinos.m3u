@@ -15,13 +15,13 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVM
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",América TV OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/185418.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180901.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV OPC 2" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=a8f3687e8b9b03dc71a2eb43de923373004bc85c52bdbdb6443dfe590cc84d75
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/185519.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180898.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1727456640&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727456640&signature-hash=a1928255e3639f09a20bdfc7567b821ecdeb1d5923c220cc1fa4bf1a25a67e38
@@ -33,7 +33,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=7a690e9be8ea8238143693a88aedd0c6cca3e4c8dedf5294f538107d25f0c7f1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/185426.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180915.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 2
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/180916.ts
@@ -75,9 +75,6 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru OPC 3
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru OPC 4
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales Peru",Canal Ipe Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
@@ -125,16 +122,16 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://bwfrzq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=eb20ea546adf333d68f0d59842db33845d913ac2-afc128f547ba6a1489970cada63c30ca-1726974560-1726938560
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/182469.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178651.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 3
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
 
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga MAX OPC 4
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178649.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178646.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
-https://server4.betzta.com/golperu/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=0bdf51feb45e9b85c9e07de23d9e543b9fff5746-83e5a737037d54f4fdb2636570859211-1726950208-1726939408
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178645.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 2
 http://200.60.124.19:29000/play/a00b/index.m3u8
@@ -143,7 +140,7 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178644.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png" group-title="⚽ Deportes",Gol TV HD
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81r9Fp0YSQTtV0iS7ZHgnjKE/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/13568.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 1
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178639.ts
@@ -203,112 +200,97 @@ http://181.205.130.194:4000/play/a07s
 http://181.204.79.182:8202/play/a01w
 
 #EXTINF:-1 tvg-name="ESPN BRASIL" tvg-logo="https://cdn.oantagonista.com/uploads/2020/03/espn-brasil-logo-1024x591.jpg" group-title="⚽ Deportes",ESPN BRASIL
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81sPtiIex8KZHimwXFn-nVSU/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14899.ts
 
 #EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81kwKGo_hsjmnhyAfkBMlWrQ/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105319.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 1
 https://cxvpy2s.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=62fdbf681dc1eccb3ff57aab19f576ff704d6631-ea950ae0bef88bf1b017968b8d4e7840-1726975812-1726939812
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178637.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 3
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lPP65cQtOAZZjrD-taSBtQ/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/99788.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81iY4GWXXn3E7nZBoM3fDvl4/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105254.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81qKnKJHBbLZczcjolcW88u0/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105259.ts
 
 #EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFmOIxGPFEYb_eLfOp8WTA8-o6fjeQHNLMA&s" group-title="⚽ Deportes",Directv Sports +
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81meTl05VTvdbUOWfg3IDFrrAR7zBf8oonyrKDEb7FJFZ/ts
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports Fights FHD
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81hHXGE1qdKQ5cW6JS3mE3HM/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178638.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ Deportes",FOX SPORTS 1 
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ius6zoKYhOQGh8KN2XMN6AJlL_IoMlaJ2NpNDtbhZrv/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105271.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ouZ5aiTdxKPNn9ERvvqRWmHej0JkcTwaVzlwGMwbmvK/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105273.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t4oH1m5G2N42G1Y8O0fLUI/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105274.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="⚽ Deportes",FOX DEPORTES
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vf-1XRzngNyNoFkROFKFoY/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184082.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="⚽ Deportes",Fox Sports Premiun
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81s5Zaz9vOZWd4T3yxy0QMBc/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184095.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s" group-title="⚽ Deportes",TYC SPORTS OPC 1
-http://45.232.176.17:8000/play/a02g
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14046.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vOpPcySaqPnod8_zM72pdo/ts
-
-#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_cdc739a75053a86fbc0af214609bf344.png" group-title="⚽ Deportes",Telemundo Deportes
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81sc2xtb7v48i7eGVDA9fYMM/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14045.ts
 
 #EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i_5NY_J5xU1SE21SXRRHBXNxAAcAjiHCJoM-tBoPwDw/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/116522.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81pcKp6Kr1XnGWE-HhyhEmxRE-D-o6QNNVo_JFvndTNJ3/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178588.ts
 
 #EXTINF:-1 tvg-id="Sky Sports OPC 1" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports BUNDESLIGA
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i7QUfzXg3a67-61IrjXKIjXoyXeM3BXtke7a6b8Miu9/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184123.ts
 
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81i7QUfzXg3a67-61IrjXKIjXoyXeM3BXtke7a6b8Miu9/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE OPC 1
 http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UIEA6RhGMYC31Z9EL0cqdf9nuqR9PccXG0yYB2tjrYlG9mQdKdpWI2dW5QIeR3Yxf3XnppvWMw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",SKY SPORTS PREMIER LEAGUE OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vBSxLVXo0Yw-UVwHCXoNwM/ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 1 
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81h_N6VMwlYgH6pFrWrxDSSLDNcndvmRMuvMsam56Lw7A/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14916.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="⚽ Deportes",SPORTV 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81ouxHOqfJ3FnkZO_1mSUACE/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14917.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4WZ-5y3jyAQN4vBAQtwilCHoUcdaAJK7Cg&s" group-title="⚽ Deportes",SPORTV 3 
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81rlM-FedtQnrpMSKM53XQDw/ts
-
-#EXTINF:-1 "Teledeporte" tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",TELEDEPORTES OPC 1
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81upKWEGjq5bdAQKNQLhYz82h3DACMTjyVpiJPjSPEfj_/ts
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/231/354/png-transparent-teledeporte-television-espanola-high-definition-video-la-1-television-tdp.png" group-title="⚽ Deportes",TELEDEPORTES OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81qTFYH7HVroQptqPGx-Tjn6jvgmtySSY86x02dnenQ5J/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14918.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 1
 http://181.205.130.194:4000/play/a06o
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81kDmroxX-fV30lQw7Yu5eUw/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184117.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81t94DVG_IGNLz77qjuZjbRg/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/97382.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81vlsZKkUvDn5ji_8WlJiF3Z5ElUE0UZrBnrszCiPPZLN/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/97385.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS USA
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81l57bL_8dYXCVLZ_qpUa-FU/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/97384.ts
 
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 1
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81nOK1dNKV0wFAuwPACeE7adElKN5wxd5ZAjGa5Tno8mo/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/97460.ts
 
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 2
-http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81lE2hFWTGSnyZZk3gQILlAViHOZ04A2ubLERF44e7vnu/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184099.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17bwckR1svXpSYbMIjZLI-YMqtFZVXPHUil3hT_Jqnim1VJT1CZ7JNkhuRgbCUh5eLl4&usqp=CAU" group-title="⚽ Deportes",Win Sports OPC 1
 http://181.204.79.182:8202/play/a026
@@ -361,14 +343,17 @@ http://prestigetvs.site:80/play/OBZmmUT1RYLzix7fGdS81mDqL2G438LsvAPgqsQnkhM/ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT OPC 1
 http://181.205.130.194:4000/play/a09l
 
-#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Cine Premiun",PARAMOUNT OPC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APARAMOUNTCH&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=748e07c0ab788fdde75357e626c0deabe797c6765b4f9c604b8513c0e7485d3c
 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/Paramount%2B.png/revision/latest?cb=20220726031153&path-prefix=es" group-title="Cine Premiun",PARAMOUNT +
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86187.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPveleEO7q4rahRa6ntzk0BfaRxT95xSPKCA&s" group-title="Cine Premiun",NETFLIX 
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81pXrdQpPq6-91se3NZX13uc/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86186.ts
 
 #EXTINF:-1 tvg-logo="https://images.hitpaw.com/topics/video-enhancer/amazon-prime-video-quality-1.jpg" group-title="Cine Premiun",AMAZON PRIME 
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81u_GM7jjd_omVmUTcXQbo8U/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86184.ts
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
@@ -565,10 +550,10 @@ http://181.205.130.194:4000/play/a06e
 http://181.204.79.182:8202/play/a023
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" group-title="Cine Premiun",TCM OPC 1
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81rnWyHQ8x6Ml3cmE8KVtz6M/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/13688.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" group-title="Cine Premiun",TCM OPC 2
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81iO2d3HHJeA3oulV-_KPeSs/ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/13689.ts
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/freetv_esterlar_1920x1080_0.jpg" group-title="Cine Standar",Free TV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
