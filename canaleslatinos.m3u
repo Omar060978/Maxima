@@ -240,10 +240,10 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184082.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184095.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s" group-title="⚽ Deportes",TYC SPORTS OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14046.ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5736.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14045.ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/7099.ts
 
 #EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
@@ -254,20 +254,17 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3479.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3492.ts
 
-#EXTINF:-1 tvg-id="Sky Sports OPC 1" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports BUNDESLIGA
+#EXTINF:-1 tvg-id="Sky Sports OPC 1" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga OPC 1
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184123.ts
 
-#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
+#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga OPC 2
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="⚽ Deportes",SPORTV 1 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14916.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="⚽ Deportes",SPORTV 1 
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105606.ts
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="⚽ Deportes",SPORTV 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14917.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4WZ-5y3jyAQN4vBAQtwilCHoUcdaAJK7Cg&s" group-title="⚽ Deportes",SPORTV 3 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14918.ts
+#EXTINF:-1 tvg-id="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest?cb=20231020154516" group-title="⚽ Deportes",SPORTV 2
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105644.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 1
 http://181.205.130.194:4000/play/a06o
