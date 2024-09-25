@@ -126,7 +126,7 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3494.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
 
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga MAX OPC 4
-https://bwfrzq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=eb20ea546adf333d68f0d59842db33845d913ac2-afc128f547ba6a1489970cada63c30ca-1726974560-1726938560
+https://aw1wcm92zq.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=181.176.225.207&token=560e9aa24836025326785725647ecf4de34a8a06-1631b16e0f7a73b5fd5bb4250bbed2c2-1727259418-1727223418
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3434.ts
@@ -210,7 +210,7 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105319.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3469.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 2
-https://cxvpy2s.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=181.176.225.244&token=62fdbf681dc1eccb3ff57aab19f576ff704d6631-ea950ae0bef88bf1b017968b8d4e7840-1726975812-1726939812
+https://am91cm5leq.la10tv.com/lb/dsports/index.m3u8?token=0948ee1d516de98bc5c3fbf5458ac7620a95cb40-593c20f8082d58ddd440c642d8e210c8-1727261073-1727225073&remote=181.176.225.207
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 3
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/99788.ts
@@ -240,7 +240,7 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184082.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184095.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s" group-title="⚽ Deportes",TYC SPORTS OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5736.ts
+https://dmvudge.la10tv.com/tycsports/tracks-v1a1/mono.m3u8?remote=181.176.225.207&token=9d99e05f9356088953618dbe1f2cfa9991e2572d-2f4ab11349c83729976993d73c5a4a0d-1727259721-1727223721
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/7099.ts
@@ -263,7 +263,7 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="⚽ Deportes",SPORTV 1 
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105606.ts
 
-#EXTINF:-1 tvg-id="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest?cb=20231020154516" group-title="⚽ Deportes",SPORTV 2
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sport_TV2_%282016%29.svg/586px-Sport_TV2_%282016%29.svg.png" group-title="⚽ Deportes",SPORTV 2
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105644.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 1
@@ -294,13 +294,10 @@ http://181.204.79.182:8202/play/a026
 http://181.205.130.194:4000/play/a0ay
 
 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ Deportes",TNT SPORTS 
-http://nxt.plus:8080/olmos/1234guz/7
+https://z29vzc.la10tv.com/tntsportschile/tracks-v1a1/mono.m3u8?remote=181.176.225.207&token=7c316f4fabeb3f18c6bb2c9f2e6be8463d687689-7d34c388ba74d8407da5e0b41c808817-1727260602-1727224602
 
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Peleas de Box Clasicas" tvg-logo="https://static.vecteezy.com/system/resources/previews/007/955/130/non_2x/boxing-logo-free-vector.jpg" group-title="⚽ Deportes",Peleas de Box Clasicas
-https://lnc-top-rank.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SPk1ER3wSqx1NoiTrASIB5bzVEKxaL7imE5c74828bXDy1kjsBTACGmD43QmYR5cyGi4y02G7-M=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -666,7 +663,7 @@ http://181.204.79.182:8202/play/a02y
 http://181.205.130.194:4000/play/a06m
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="Niños",Cartoon Network OPC 2
-http://181.205.130.194:4000/play/a0b7
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3388.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 1
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=f61b2c44d8e3b98a17a22af2b41a27ff96127d22e877f071f9aae952f4150bc9
@@ -713,9 +710,6 @@ http://181.205.130.194:4000/play/a07g
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Entretenimiento",E Entertainment OPC 2
 http://181.204.79.182:8202/play/a01k
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBTFesz_otj78aAu2e9teYUkwKK0caHbLQA&s" group-title="Niños",Impacto Televisión
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzw7eOp-bWXjRR_eDKfhgihkT3H7mnc8tcw&s" group-title="Musicales",interTV
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 
@@ -737,9 +731,6 @@ http://181.78.4.186:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 2
 http://181.204.79.182:8202/play/a03u
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 3
-http://181.205.130.194:4000/play/a0bd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeNPFGhAv5vv5l1NabbGuWPynbe5xb0x6jg&s" group-title="Novelas",RCN Novelas OPC 1
 http://181.205.130.194:4000/play/a07v
 
@@ -750,13 +741,13 @@ http://181.204.79.182:8202/play/a03q
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama OPC 1
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81trYyOWPYJ3pbNDep4ghegc/ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/184118.ts
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama OPC 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/eUhx6RYiv0.lmQ06raI1UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM0NQ--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Novelas",La Rosa de Guadalupe
-http://prestigetv.site:8080/play/OBZmmUT1RYLzix7fGdS81v_Z3f8hB2_FrB4MqeNQSwazeqdyYYogaMZH5KJdBtrM/ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/64386.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0boQSFJ1V5D3Y4jBvYFmxnHSsgzrKdJ4qQ&s" group-title="Novelas",Amantes del romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
