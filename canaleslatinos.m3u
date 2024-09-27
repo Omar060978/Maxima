@@ -113,17 +113,17 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gXLJwCTI9EM7H_OyJ7Sg05hjVYpYwEJbog&s" group-title="Canales Peru",DMJ Cuzco
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 1
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",LIGA MAX OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3439.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 2
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",LIGA MAX OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3494.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",LIGA MAX OPC 3
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/132110.ts
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",LIGA MAX OPC 3
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
 
-#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="⚽ Deportes",Liga MAX OPC 4
-https://server4.betzta.com/l1max/tracks-v1a1/mono.m3u8?remote=181.176.225.63&token=3a96985aa9c3db020d865e9b5ecd6e5142493cb9-0b21bdb6f11073aec48c198f68b14b81-1727460513-1727449713
+#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",Liga MAX OPC 4
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/132110.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3434.ts
@@ -198,13 +198,13 @@ http://181.204.79.182:8202/play/a01w
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/14899.ts
 
 #EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
-https://c3bvcnrz.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=181.176.225.63&token=1937788185e832ac960243dcb595c76bc1f1bbf0-186b3d44acf68eb6086231f9129f3ac6-1727486039-1727450039
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184080.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3469.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 2
-https://am91cm5leq.la10tv.com/lb/dsports/index.m3u8?token=0948ee1d516de98bc5c3fbf5458ac7620a95cb40-593c20f8082d58ddd440c642d8e210c8-1727261073-1727225073&remote=181.176.225.207
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178637.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 3
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/13094.ts
@@ -213,7 +213,7 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/13094.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105254.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 2 | OPC 2
-https://ag9wzq.la10tv.com/dsports2/tracks-v1a1/mono.m3u8?remote=181.176.225.63&token=b86125d5e2de6e7cedb2ffaafeac00a913352d33-5eafc202328fea5fe1e364ec6bf3a65a-1727486359-1727450359
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105259.ts
 
 #EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFmOIxGPFEYb_eLfOp8WTA8-o6fjeQHNLMA&s" group-title="⚽ Deportes",Directv Sports +
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3472.ts
@@ -222,7 +222,7 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3472.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/7096.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 
-https://cxvpy2s.la10tv.com/foxsports2/tracks-v1a1/mono.m3u8?remote=181.176.225.63&token=92dfe98ff18a35eefecbf1c136d6e7c7666d7671-34577d219f69b34761d20c64764bcef4-1727486988-1727450988
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105273.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105274.ts
@@ -255,10 +255,13 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/66135.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="⚽ Deportes",SPORTV 1 
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5822.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105606.ts
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" group-title="⚽ Deportes",SPORTV 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5823.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105641.ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i4cF0rXmUR8/maxresdefault.jpg" group-title="⚽ Deportes",SPORTV BRASIL
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5822.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="⚽ Deportes",CLARO SPORTS OPC 1
 http://181.205.130.194:4000/play/a06o
@@ -560,7 +563,7 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/a/a/0aa84db9ccb645183fd4b7cfa2133a46_fgraphic.png" group-title="Musicales",Retro Music Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp_qveHTYRvKpZTMfO6DxNvX39oBTe16tBw&s" group-title="Musicales",Retro Play TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp_qveHTYRvKpZTMfO6DxNvX39oBTe16tBw&s" group-title="Entretenimiento",Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Cine Standar",Auténtica Televisión
