@@ -9,7 +9,7 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVH
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVMAS&content-expiration=1727456640&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727456640&signature-hash=bf29393ee596b1cd1226cfea796f3fa9da623b027c7e2a7dede56b964d3fbd3e
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=2186514909&_cdn_timestamp=1727491362&_cdn_token=0c2538e16313b3cc07b189d49f84c5631e91d672
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -18,19 +18,19 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3403.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV OPC 2" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=a8f3687e8b9b03dc71a2eb43de923373004bc85c52bdbdb6443dfe590cc84d75
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2186516589&_cdn_timestamp=1727491445&_cdn_token=94c16b01035cd6c3cbc4c41fde04851611c3173b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3407.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1727456640&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727456640&signature-hash=a1928255e3639f09a20bdfc7567b821ecdeb1d5923c220cc1fa4bf1a25a67e38
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=2184261860&_cdn_timestamp=1727491534&_cdn_token=db293c59366b2fe533081742e414970597b79290
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 1
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=7a690e9be8ea8238143693a88aedd0c6cca3e4c8dedf5294f538107d25f0c7f1
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=2187106987&_cdn_timestamp=1727491606&_cdn_token=2529d8099d54c740b026a6482e4abb07e62b0308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3409.ts
@@ -42,10 +42,10 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3410.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3416.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ARPP&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=05d96658b780d91da56ed9572efa029f6c46b96302b1fc4842219e9e18cba4d0
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=2184264380&_cdn_timestamp=1727491665&_cdn_token=576308a47e669351d0b5ba8bfce2a5896ee36853
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=7e9ee6efecb4349c32d77b95f4b75a5cf49c61f0f592e5adab4c47e88a01ca72
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=2187109019&_cdn_timestamp=1727491715&_cdn_token=0d62dda5721c7edf02fa023f84301df5bd876702
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3411.ts
@@ -54,7 +54,7 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3411.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3418.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=cab19bcc1e87e720fcedc3d954ac20960dc74938a6dfdcdd808b58ebfd2a1351
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=2187111131&_cdn_timestamp=1727491809&_cdn_token=94b2b6ccf15db39a02cb1e89b5d173c8891f4543
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV OPC 1
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -63,10 +63,10 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w2023509337.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Global_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20221102180116&path-prefix=es" group-title="Canales Peru",Global TV
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGLOBAL&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=e19e0e978a79d6bd389857ec3d2f6bbd30d2b595f6e6f012cc391e15c68c310f
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=2184268812&_cdn_timestamp=1727491871&_cdn_token=d32d78c51355ca6c864f865868d1460c17667b38
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="Canales Peru",TV Peru OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATVPERU&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=28f03de1df916cb47b0243ab5a8d146b5837ec284d7be4e5278bc36f14bf97fc
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=2186527413&_cdn_timestamp=1727491955&_cdn_token=a66409e80c43649ab866a432b25789469c8d6832
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="Canales Peru",TV Peru OPC 2
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -99,7 +99,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WUAn4t3ORoaipngpmD8Vd7VB-0zFrZ0B0_Dq0eKysHzuIzbEBmAXwEuAey0ETMhFbsXSXFOJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Peru",Nativa OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ANATIVA&content-expiration=1727464200&user-id=443558126&device-id=224209823&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727464200&signature-hash=dec78a39487eedddd0adcacd6c4da6a5ce63c4c3a7e29f1bc1be72ee7c4cb742
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UCITV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=2186529765&_cdn_timestamp=1727492043&_cdn_token=013fb9cc5475952215e529f7c9a4b5cc8ce87fb5
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7PcIBClzgPIDHxNRfO6vsBveUPo9w7QB6w&s" group-title="Canales Peru",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
@@ -327,7 +327,7 @@ http://181.78.105.146:6060/play/a00l
 http://181.204.79.182:8202/play/a02w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE FHD 
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3518.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/15043.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT OPC 1
 http://181.205.130.194:4000/play/a09l
@@ -375,7 +375,7 @@ http://181.205.130.194:4000/play/a06u
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/281437.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1727396280&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727396280&signature-hash=e79b88ac0e847fdcdd821b648ff17185834d75eaddaddba7d0aee6fe1a5c20b9
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=2187120435&_cdn_timestamp=1727492163&_cdn_token=778e023f329e47ecd3c72d6ad8d03856c7c70661
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
 http://181.204.79.182:8202/play/a030
@@ -522,7 +522,7 @@ http://181.204.79.182:8202/play/a00j
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX OPC 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3370.ts
+http://prestigetv.site:80/live/962817086/GtpdUNHjRU/15007.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal
 http://181.205.130.194:4000/play/a06e
