@@ -153,13 +153,13 @@ http://181.204.79.182:8202/play/a03h
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/17962.ts
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy-1024x303.jpg" group-title="⚽ Deportes",ESPN Argentina
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=1133cacb911d25f7e1f0c27f3a488247187ff601a941635e83177628b1a69546
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN&content-expiration=1728144780&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728144780&signature-hash=29a8475023c094a3c9a0780061e6a6fd3dcf23b1544e41e7fa79b6679ad6348b
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png" group-title="⚽ Deportes",ESPN 2 Argentina OPC 1
 http://181.204.79.182:8202/play/a031
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=3b88789b649199eb58f0602e34c48d5af8e82283d360d0614af389f07b594c15
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1728144780&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728144780&signature-hash=9ba239d1ee05406b07ef4c646df770962b15093244d8caa02e572079e36ee04e
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 3
 http://181.205.130.194:4000/play/a07i
@@ -168,19 +168,19 @@ http://181.205.130.194:4000/play/a07i
 http://181.204.79.182:8202/play/a02f
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="⚽ Deportes",ESPN 3 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=1c8c67cb34f5385377ba5ea8f7503dc231d28f78c548f2232c824d0f7a7682e6
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1728144780&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728144780&signature-hash=39fb94f3c460f722c0e3ee5c4796753642044d124f6dc7274798c3ce9ff377a5
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 1
 http://nxt.plus:8080/olmos/1234guz/16915
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=7f1c1efddb7ed1335fb9bec02e9f5c4d34761cea3fdeeb77e226487e39875b1e
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1728144780&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728144780&signature-hash=ee04b5f76e927dd1aba99cbe7248498361d66c365b03dc08c0282c631776b42b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 1
 http://181.205.130.194:4000/play/a085
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=642dfba7c34bef5d93ed82e18328f6ae1ce4e967bb01d648ebc502eab2a4cff9
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1728144780&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728144780&signature-hash=c7357430e1795b97b8024044f6c667b2e68c687480b67c498825e6bc6f194397
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="⚽ Deportes",ESPN 6 Argentina OPC 1
 http://181.204.79.182:8202/play/a01x
