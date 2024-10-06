@@ -378,7 +378,7 @@ http://181.205.130.194:4000/play/a06u
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/281437.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1728099720&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728099720&signature-hash=cd07b77c4d065b60decc9c7e6abefcb2309c36486d032845ff833a4d9143a5ed
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1728775320&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728775320&signature-hash=4ff23e5641efb585134e22dca08fa227a2d3a3ca340425edad3ef4909bda1c1a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
 http://181.204.79.182:8202/play/a030
@@ -405,7 +405,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
 http://181.204.79.182:8202/play/a01j
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Cine Premiun",Warner Channel
-http://38.41.8.1:8000/play/a008
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3360.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
@@ -480,14 +480,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/Manuales/2022/03/canal-plutotv-action-720x349.jpg" group-title="Cine Standar",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 
-#EXTINF:-1 tvg-logo="https://symphonier.com/img/estaciones/rakuten-tv-action-movies-spain.png" group-title="Cine Standar",Rakuten Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ3jbI8gusmZb6eO7_JTFGHd9Vpq6fcAxDA&s" group-title="Cine Standar",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/27f15d74-cd48-45ad-834c-3c2d97275e68-peliculas-de-drama-rakuten-tv-1621956345.jpeg" group-title="Cine Standar",Rakuten Drama
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/PTBB700018CK_20230309T012415SQUARE.png_20230309012415.png&h=250" group-title="Cine Standar",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
@@ -498,17 +492,17 @@ https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPsoBxWDWYaP59aELUi9ekudNOAONyN11Q&s" group-title="Cine Standar",Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine Clasico",De Pelicula
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine Standar",De Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Cine Premiun",A&E OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1728099720&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728099720&signature-hash=2cbe4f3227f11b1b4271a8476348172a6a92bbe6414a7e46818d820139302b9e
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1728775320&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728775320&signature-hash=973d3e6109ebba3264a71134bffc59773cf3fb7c92058ace6b65c5a6eb5769b5
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E OPC 2
 http://181.205.130.194:4000/play/a07n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1728099720&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.67&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728099720&signature-hash=b8bafb855d96be4f1141077ad39009f3ceea9555bba54e8d7d4fb4867fcdfe9b
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1728775320&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728775320&signature-hash=dffb4baa3055d309633f1bffc63aad0a906e5afe48a8870ec6fb9d4efd01264f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Premiun",GOLDEN EDGE
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/195971.ts
@@ -547,10 +541,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/13688.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" group-title="Cine Premiun",TCM OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/15073.ts
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/freetv_esterlar_1920x1080_0.jpg" group-title="Cine Standar",Free TV Estelar
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3525.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3OUrdRsoIBoguJ00VCTAIqR7l6HVi0XikA&s" group-title="Cine Standar",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -609,9 +600,6 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmGzU-S8lMy1w5SCvGcaADVnJ8xtZOmWogA&s" group-title="Entretenimiento",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq19O16DYLgKuKlPj3x_RIkNdN_5RLyydCsA&s" group-title="Entretenimiento",MDA Televisión
-https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxSaPy6Fm1094-r5Fb-GeJqgY4cqsNBjbZQ&s" group-title="Musicales",STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
@@ -632,12 +620,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png" group-title="Entretenimiento",Cable Sur TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPgX3BAyVJrhddZBS934xmT6Kev9EUhXHeQ&s" group-title="Musicales",Canal 1
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0UyIbm5zFYI/mqdefault.jpg" group-title="Religiosos",CBN Español
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldlwKw2kJgiaPmFz90tXoKh6sIozenyKz3nF3y-HKDO6I=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -661,10 +643,10 @@ http://181.205.130.194:4000/play/a06m
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3388.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=f61b2c44d8e3b98a17a22af2b41a27ff96127d22e877f071f9aae952f4150bc9
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CGastf4C3QbUUkZBKJSRnhDE0JlBEzbHYqairauo_qyo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/17576.ts
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1728779340&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728779340&signature-hash=d58e8712cd199768351124c2cdee57b54e6decaa0d90aed7eda93de6048e988e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
 http://181.204.79.182:8202/play/a02c
@@ -689,9 +671,6 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/174383.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04uRKrFFsmJ8gt_Y3U89GaZmcQMOkH-1agA&s" group-title="Niños",El Chavo del 8
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5653.ts
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="Niños",El chavo-Vacaciones en Acapulco
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczYzQwNzQtNDkwYi00ZGE2LTgzOGQtMTg0ZjBjOTAzNWJiXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="Niños",Chespirito
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5652.ts
@@ -736,7 +715,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/184118.ts
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama OPC 2
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CKgV9gBlW6tXHj-Hz_RnkVQ
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/eUhx6RYiv0.lmQ06raI1UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM0NQ--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Novelas",La Rosa de Guadalupe
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/64386.ts
@@ -747,7 +726,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="Novelas",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zUMWq2CQ64vc5Yf6HNv0q_J7s0ad4coJAtPnXVp_-tYx6a9sP2YVD864oJKJGmcRfTfX_fbA=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Canal RCN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Entretenimiento",Canal RCN
 http://181.205.130.194:4000/play/a08f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="Entretenimiento",RCN Xtra
@@ -756,17 +735,11 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="Entretenimiento",Canal Caracol OPC 1
 http://181.205.130.194:4000/play/a0ck
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="Entretenimiento",Caracol OPC 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="Entretenimiento",Canal Caracol OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/17966.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeR63bOJBBv4KRTE8hfFgdaCwfAauRWjvVyQ&s" group-title="Entretenimiento",RCV TV
-https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Entretenimiento",El Trece OPC 1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H7MQY1v/EL-TRECE-HD.jpg" group-title="Entretenimiento",EL TRECE OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATRECEARGENTINA&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=b70fdee33878e32a348f60399a8526bc395891b617ab32be34451ba37545453d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Entretenimiento",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL
@@ -780,7 +753,7 @@ http://181.204.79.182:8202/play/a01y
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo OPC 2
 http://181.205.130.194:4000/play/a07u
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC OPC 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC OPC 1
 http://181.204.79.182:8202/play/a01t
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC OPC 2
@@ -789,20 +762,14 @@ http://181.205.130.194:4000/play/a07p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj38KBHm79VX9Fv9x-uwuMsqUbgNT884iKA&s" group-title="Entretenimiento",MTV
 http://181.205.130.194:4000/play/a06h
 
-#EXTINF:-1 tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Cine Clasico",Classic Channel
+#EXTINF:-1 tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Cine Standar",Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mQ1vpjN1JSP7aWc54eTmLXv8e54BNOf5BAVtJRReOPR74=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Super Channel 12
-https://servilive.com:3263/live/channel12live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tdtmultimedia.info/wp-content/uploads/2024/06/TDT-MULTIMEDIA.webp" group-title="Entretenimiento",TDT Multimedia
+#EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2024/07/logo-web-300x205-1.png" group-title="Entretenimiento",TDT Multimedia
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Entretenimiento",TeleSUR OPC 1
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrsspS5n7881_5_eMOox9lsbo9G2YKEYM1A&s" group-title="Entretenimiento",TeleSUR OPC 2
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE OPC 1
 http://181.204.79.182:8202/play/a00r
@@ -819,7 +786,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzfTJOz2iT9HpZYFGCoCCt_c2uDXi4qecYQ&s" group-title="Entretenimiento",ANTENA 3 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354058
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OvvPnN3nn-7mtVjZzOX-3gL1Lbxupbz6Z9nNDMfWvMFBr8coK3B-ghwpX4fxhT69qOa5BCqEvw=s900-c-k-c0x00ffffff-no-rj" group-title="Cine Standar",Univers TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTshQGAocwoIYU6RZrE7s7BTlnmPLam8ogw&s" group-title="Cine Standar",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mxs5Kjii-H8fPLtSEhsjRIIJLD8qTPcaFA&s" group-title="Entretenimiento",Acapulco Shore
@@ -847,7 +814,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://181.205.130.194:4000/play/a0b6
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYCHANNEL&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=bd14d7f5fbd648774652931d395dbd2f64a1d3bab925b9a66edf3619e87d1191
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjr5vZACWAmzBhGZrV0oMWlfLb25p23_raSQ&s" group-title="Culturales",Discovery ID
 http://181.205.130.194:4000/play/a07w
@@ -858,10 +825,10 @@ http://181.205.130.194:4000/play/a0c2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Culturales", Discovery Science
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_23131.png.12e9f6c1fadffdb8c0d9f8a8bbf23c57.png" group-title="Culturales",Discovery HomeandHealth
-http://181.205.130.194:4000/play/a080
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_23131.png.12e9f6c1fadffdb8c0d9f8a8bbf23c57.png" group-title="Culturales",Discovery HomeandHealth OPC 1
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="Culturales",HomeandHealth
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="Culturales",Discovery HomeandHealth OPC 2
 http://181.204.79.182:8202/play/a03w
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/hrltx12pl8hq/2Kx5jH6dL3PJ3GH2jt8LNc/6cedd8d668703327b943bd59e41d47eb/logo_ngtv.jpg?fit=fill&w=480&h=268" group-title="Culturales",Nat Geo OPC 1
@@ -874,7 +841,7 @@ http://181.205.130.194:4000/play/a08s
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1727537820&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.244&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1727537820&signature-hash=53d461f35a411112fd9a875c61bf246262e89f1622bd5dfacb746344f9dfb939
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1728779340&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728779340&signature-hash=7331ef9751ee34eb22ef664301bfd6726af850f2b625f0c563fe9a579aa27c9b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel OPC 1
 http://181.204.79.182:8202/play/a00c
@@ -886,7 +853,7 @@ http://181.205.130.194:4000/play/a06d
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/history2-hd.png" group-title="Culturales",HISTORY 2 OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/87332.ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5676.ts
 
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/8300e9c4-118c-4314-b39a-aab6fe794ee4_16-9-discover-aspect-ratio_default_0.jpg" group-title="Culturales",TOROS TV
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/6600.ts
