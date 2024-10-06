@@ -225,7 +225,7 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105257.ts
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184086.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105273.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CKf5CsPrrRtIBWZEPXWaL8U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105274.ts
@@ -291,7 +291,7 @@ http://181.204.79.182:8202/play/a026
 http://181.205.130.194:4000/play/a0ay
 
 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ Deportes",TNT SPORTS 
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/25835.ts
+http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5735.ts
 
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
