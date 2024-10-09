@@ -152,9 +152,6 @@ http://181.204.79.182:8202/play/a03h
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN Colombia OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/17962.ts
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",Espn Peru
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147021
-
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy-1024x303.jpg" group-title="⚽ Deportes",ESPN Argentina
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN&content-expiration=1728759240&user-id=443558126&device-id=446531925&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1728759240&signature-hash=a7c4d9d40fafdc865465c328109b1853bdeba04aa1b082251e9bc437a2484d1b
 
