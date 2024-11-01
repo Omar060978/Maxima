@@ -159,7 +159,7 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN
 http://181.204.79.182:8202/play/a031
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=9470582c026aab24c47191b4002d041a48387efe28864b5f028fa1465c6f017d
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=6e0ca78eb6443586319bbc32a6448819e610984a490b1ea64191da519605e60c
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 3
 http://181.205.130.194:4000/play/a07i
@@ -168,19 +168,19 @@ http://181.205.130.194:4000/play/a07i
 http://181.204.79.182:8202/play/a02f
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="⚽ Deportes",ESPN 3 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=e1f1d9b2350ea1328437ccfbe4ea288d4ce09e30b895a1899bf9403ca2018609
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=897c7972e055f355574327cb995203d20dc7fadc2f8b71d6aed6cc60a7fd5fab
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 1
 http://nxt.plus:8080/olmos/1234guz/16915
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=9cfedd6e07ea945ebdc2a5196e4e87ad71f8be069646f41285173c1434080187
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=2243e1f37b114d0a1e313c535ab22750102a8a56f736adc10ef9937354147da8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 1
 http://181.205.130.194:4000/play/a085
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=4d7c7b8fff3c958b204d97d7a2e1558a700d17feeec6bb8b07cb6a6b554415ce
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=acd406fc628a801c6c1a8c6c4f3fcec244e518fa83d4e243250cab9639bb4d4d
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="⚽ Deportes",ESPN 6 Argentina OPC 1
 http://181.204.79.182:8202/play/a01x
@@ -393,7 +393,7 @@ http://181.205.130.194:4000/play/a06u
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/281437.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=98675863bee24c2d189eaa9254b0269d69d0269b9cd9b325afeb6e8b23c8a30c
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=551255aff933a7a0bd8ce8180be347d9b797a188eafa53f149f64d861253430f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
 http://181.204.79.182:8202/play/a030
@@ -471,7 +471,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&s" group-title="Cine Standar",Imagen Universal TV
-#EXTVLCOPT:network-caching=1000
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4e16e17ef6e5badbb049e6be43ec134e4d40222df29793158fe98f97284a508e.png" group-title="Cine Standar",FILMRISE ESPAÑOL
@@ -508,13 +507,13 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Cine Premiun",A&E OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=081684f9d398c54b910458cad278ab7d0c727d17808a14ae846285290d1288d0
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=6a7139df72ee14964f042d2e87ab1c8abe798ee574ed544e6dce8417b052c3b2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E OPC 2
 http://181.205.130.194:4000/play/a07n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1729391340&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.190&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1729391340&signature-hash=b869988a3ad11ff2842275aedf901ca968b27ee18b29c98eac118aaf9045a987
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=634210fb96edf88b84c48e4744e748b1f0243f4f4b59190e9ed985c8edf72f5f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Premiun",GOLDEN EDGE
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/195971.ts
@@ -658,7 +657,7 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3388.ts
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CGastf4C3QbUUkZBKJSRnhDE0JlBEzbHYqairauo_qyo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=18dab269d62405fee06bb6873de44af40d46dbb47cc77ffc0d4256759a9465bd
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=6a7cef42abb51cc952400fa0a2de44cbecc061e6615c24c455d6a3b910f3264f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
 http://181.204.79.182:8202/play/a02c
@@ -706,7 +705,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tlnovelas_m.png" group-title="Novelas",TLNOVELAS HD
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELENOVELAS&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=c57b3e19226000d66e4bf12eaf086219389bacf3865c44208213d89c4a499a5c
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELENOVELAS&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=4c5ac964802af08a8ccb3d3699df6c1afcacd12fe8fa82f82d49a9a313152827
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 1
 http://181.78.4.186:8000/play/a0fn/index.m3u8
@@ -850,7 +849,7 @@ http://181.205.130.194:4000/play/a08s
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=bb5cf73d1a80bc6d20e8162ff8cd8e72489ca49ad721bec777673f4588d973e1
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1731085620&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731085620&signature-hash=71decc00aa52e3cff8a15c0453e7e417694c06dad673e0038bb7a15c032ae905
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel OPC 1
 http://181.204.79.182:8202/play/a00c
