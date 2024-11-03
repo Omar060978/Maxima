@@ -3,7 +3,7 @@
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVHD&content-expiration=1730165640&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.207&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1730165640&signature-hash=045a9d7fef93ade7a96b222c6cc860001a52c3955389ffc8a25b50fe45b447c1
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVHD&content-expiration=1731264840&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.144&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731264840&signature-hash=edaf9e0b47fe6eb1929d260a9f34fad59cd868b7313d68387adf692fecbbd720
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -200,6 +200,9 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CEmhAoj80lcatCDAm21cNtM
 #EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184080.ts
 
+#EXTINF:-1 tvg-logo="https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original" group-title="⚽ Deportes",ESPN +
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1276
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="⚽ Deportes",Directv Sports 1 | OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CFBVVJp69qtJEtWVWTQsp_0
 
@@ -239,20 +242,11 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CBMEWl6ji-hf4_M7mHKpL-Y
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/7099.ts
 
-#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 1
+#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",DAZN 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3479.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 3
-http://uniplay.proxytv.in:80/leonardo4249/a980069/229988
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" group-title="⚽ Deportes",PREMIER LEAGUE | DAZN 4
-http://uniplay.proxytv.in:80/leonardo4249/a980069/229989
-
-#EXTINF:-1 tvg-id="Movistar La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ Deportes",Movistar La Liga
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/66135.ts
 
 #EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
@@ -265,9 +259,6 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105641.ts
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i4cF0rXmUR8/maxresdefault.jpg" group-title="⚽ Deportes",SPORTV BRASIL
 https://anonmedia.foo/sportv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original" group-title="⚽ Deportes",ESPN +
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1276
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⚽ Deportes",TIGO SPORTS OPC 1
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
