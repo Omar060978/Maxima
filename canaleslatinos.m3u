@@ -242,7 +242,7 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CBMEWl6ji-hf4_M7mHKpL-Y
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebCIZUuBZvttin7gRzvHpLvecXTX4F2BgQ&s" group-title="⚽ Deportes",TYC SPORTS OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/7099.ts
 
-#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="PREMIER LEAGUE | DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",DAZN 1
+#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="DAZN 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="⚽ Deportes",DAZN 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",DAZN 2
