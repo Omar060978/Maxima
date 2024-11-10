@@ -18,13 +18,13 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3403.ts
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV OPC 2" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAMERICATV&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=2d000994e51a40334d337a70e661abcb96d14c92e2841aeb27da003f48d8576a
+http://200.60.124.19:29000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3407.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=cce180b6c4b0648c84b759b4bc2d5364083eb1c688119857b6829ff41ec3baa8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 1
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -42,10 +42,10 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3410.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3416.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ARPP&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=3061de9435fa0162e963c9e33a6335a348c731515922952729f8fa33287b32f7
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=270b42b24443472769995eadf2e2abc96a28931e6b587a59f0e9b45350514af6
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 2
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3411.ts
@@ -63,7 +63,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w2023509337.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Global_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20221102180116&path-prefix=es" group-title="Canales Peru",Global TV
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGLOBAL&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=8be561dd6dc407ed832ac9dc6dbb347d3bfe15d292bcaa0f7121dfd813bbfc4f
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="Canales Peru",TV Peru OPC 1
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATVPERU&content-expiration=1731027240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.148&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&lang=es&signature-expiration=1731027240&signature-hash=df7b1bece854a3be43fd48925ae2f161d44676d0620fbfaf6944f43a3d7bd305
@@ -120,10 +120,10 @@ http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3439.ts
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3494.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",LIGA MAX OPC 3
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178648.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CExzwntQWAPEVhL9IrvHVHucvWx8_j3zOTZ6Z0LCm4SF
 
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="Liga MAX OPC 04" tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/03/11/640ca4ebba8ef72e9e54a759.jpg" group-title="⚽ Deportes",Liga MAX OPC 4
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CC3wPTv8y8of-gHBMl1TODCWTnAFLWOpOsLJLiMLL_kD
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3434.ts
@@ -134,11 +134,17 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 3
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CCnjn25QDNTRtylEwfpZ1hFlak1qSOwGjSvqCVCVCpna
 
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2024/02/03/64b14db9a3a0182c4770a68d.jpg" group-title="⚽ Deportes",Gol Peru OPC 4
+http://200.60.124.19:29000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 1
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3463.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 2
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CNjcLRihnkz2NFryK5Nw0cUT2haZpJStJAz59HO7c5Uz
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="⚽ Deportes",Movistar Deportes OPC 3
+http://200.60.124.19:29000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN Chile OPC 1
 http://181.204.79.182:8202/play/a01n
@@ -222,13 +228,13 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CHqZrjjHYk5J42nYgwUF5tfGVkQL5
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105257.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ Deportes",FOX SPORTS 1 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184086.ts
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 2 
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CKf5CsPrrRtIBWZEPXWaL8U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ Deportes",Fox Sports 3 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105274.ts
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339663
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="⚽ Deportes",FOX DEPORTES
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184082.ts
@@ -356,8 +362,11 @@ http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86184.ts
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX | OPC 1
 http://181.204.79.182:8202/play/a024
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX | OPC 2
+http://200.115.96.66:4000/play/a0he/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 1 
 http://181.204.79.182:8202/play/a00m
@@ -375,7 +384,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://181.205.130.194:4000/play/a09j
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" group-title="Cine Premiun",AMC OPC 3
-https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9HLagXxO1-DXMSVdZwekHx_FhUxzb4hIjx2smo0NdfwB3pYZqwWhLZQsdys4A7CZJ--q8Gr9SKI=s900-c-k-c0x00ffffff-no-rj" group-title="Cine Premiun",Lifetime
 http://181.205.130.194:4000/play/a06u
@@ -401,8 +410,11 @@ http://181.204.79.182:8202/play/a033
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Cine Premiun",Universal Comedy 
 http://181.204.79.182:8202/play/a034
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere OPC 1
 http://181.204.79.182:8202/play/a032
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere OPC 2
+http://200.115.96.66:4000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner OPC 1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
@@ -411,7 +423,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
 http://181.204.79.182:8202/play/a01j
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Cine Premiun",Warner Channel
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3360.ts
+http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
@@ -852,7 +864,7 @@ http://181.205.130.194:4000/play/a06d
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/history2-hd.png" group-title="Culturales",HISTORY 2 OPC 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/5676.ts
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
 
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/8300e9c4-118c-4314-b39a-aab6fe794ee4_16-9-discover-aspect-ratio_default_0.jpg" group-title="Culturales",TOROS TV
 http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/6600.ts
