@@ -15,13 +15,13 @@ https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVM
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",América TV OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3403.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CC_MSEtL2tdhAxkGPSx4L-1Wpeak3l5T5iWIYg0T4m75
 
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="America TV OPC 2" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" group-title="Canales Peru",America TV OPC 2
 http://200.60.124.19:29000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3407.ts
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=bb058775a445a16ca844305453351fa928a3e423d5e7a32b35be4e76a44db5b9
@@ -33,13 +33,13 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=be9223d8ece91733d83f9c9c308cf6a3213b20b45f2622c4d04be3dcec2cfd1f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3409.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CCOweqaeqIW5mVXbf53KitRMFrn6aioXHX7XIUUzo-bV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3410.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CIjrqg5JV9SGyrA6B3f7vvUVThXH4LBEtkQb-BA9HwtB
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/3416.ts
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CHDy_shdp2JGtT753QlteWfs3z9m5ccmNQaIn5ckIl9h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP OPC 2
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
@@ -279,7 +279,7 @@ http://181.205.130.194:4000/play/a06o
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184097.ts
 
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75" group-title="⚽ Deportes",BEIN SPORTS OPC 2
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/66122.ts
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x365/libero/migration/imagen/2020/10/05/noticia-1601936798-tudn-vivo.webp" group-title="⚽ Deportes",TUDN MEXICO OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CA_4ZvKYPywlhg4OmZGRAP54Y03aYkAwpL-wwW6NZ6xA
@@ -390,7 +390,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
 http://181.205.130.194:4000/play/a06u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 1
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/281437.ts
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
 https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=b1c04d4472bf2befed6f460893c4fc7247efa2b335525088f46c4a2c15ba875e
@@ -441,7 +441,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine Premiun",Cine Sony 
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine Premiun",Sony Channel 
 http://181.204.79.182:8202/play/a021
