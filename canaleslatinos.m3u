@@ -3,13 +3,13 @@
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVHD&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=08feb92c3e8b8253ded341ec56b650952c7d1a653379c28eead9d43f3e57d1bb
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVMAS&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=fb0b95340b1e3a5525aa3a0eaf06be2c822f2b6eb014e178ab9039a27237a3ab
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVMAS&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=d40bc911cd020f266eafe2c5d104929fc89b6d4764fa8242c5d2991d5e5b8754
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -24,13 +24,13 @@ http://200.60.124.19:29000/play/a008/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=bb058775a445a16ca844305453351fa928a3e423d5e7a32b35be4e76a44db5b9
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=372db25b6490fd28e00314be5b925a76c8faa547131c936eedd07fd3d0cd1ff6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 1
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=be9223d8ece91733d83f9c9c308cf6a3213b20b45f2622c4d04be3dcec2cfd1f
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=24c231d035d493805816297fc33fb8d459fcf6566a7f130e1ffb9f7937f48ea4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CCOweqaeqIW5mVXbf53KitRMFrn6aioXHX7XIUUzo-bV
@@ -48,13 +48,13 @@ http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=150b271e14d6db1bc8441e06bbe4c6f67fa89be491deb8e4fcd2a4cca42ed44a
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=ade0e0dd9779e6d88c1aa28dd45b0052f8588bfd3efb1a6345a3877b91bf5765
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CDNvlyWJH43RTCMrvKn2DB7-rOPps-2kdtHhax5ox2JA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=7a4c68aa7bc29f5fc4a81f01c148b18ee127f08cce2d8b4e4dea41909fff9fd5
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=f2c3a181729d5648e9ba61bcee446d6da7b66348c5117601e485b403c64a8f0c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV OPC 1
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -78,7 +78,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/640px-Congreso_TV.png" group-title="Canales Peru",CONGRESO TV
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ACANALCONGRESO&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=e341149933fbf51ed6f4e793aede6070d857802ad04e081aeaef6af8eddd9d9c
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ACANALCONGRESO&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=bb83803da08f4c92f23408abee00424c75e4874bbbf66b5d916d7c373b10dda8
 
 #EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="Canales Peru",Uranio TV Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -99,7 +99,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WUAn4t3ORoaipngpmD8Vd7VB-0zFrZ0B0_Dq0eKysHzuIzbEBmAXwEuAey0ETMhFbsXSXFOJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Peru",Nativa OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ANATIVA&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=4c3ce59792ddc4567f00867e673d35e4cea334fbd52b103199cc88f7a822acc6
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ANATIVA&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=3e945e923e1c4c8ae3f7ae956b6998c0c0620ef289546c2cbae047622007332c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7PcIBClzgPIDHxNRfO6vsBveUPo9w7QB6w&s" group-title="Canales Peru",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
@@ -159,13 +159,13 @@ http://181.204.79.182:8202/play/a03h
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CER52rNnGFO4pvQPjb-A1JPXAUMCIdpZexTrUJADbzT6
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/mexico/files/2015/10/ESPN_Red-Logo-copy-1024x303.jpg" group-title="⚽ Deportes",ESPN Argentina
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=88eab45a86e8d74b3acd0a097e62f0656788ae941b9a91876f2b4ad632dd685e
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=9766d372af50caaac8cb5ed0b6fec0e38562347571d4c6b61e20647e7a2c0f3b
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png" group-title="⚽ Deportes",ESPN 2 Argentina OPC 1
 http://181.204.79.182:8202/play/a031
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=b2f1b43e567a9c1bee6de897a6643938b42c845a1912444aefcfdf030f903f38
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN2&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=d4948bca73b45113b6fdefb98db6c3c1dd87b34359c21d62e6b9f0f5823f5efd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 Argentina OPC 3
 http://181.205.130.194:4000/play/a07i
@@ -174,19 +174,19 @@ http://181.205.130.194:4000/play/a07i
 http://181.204.79.182:8202/play/a02f
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="⚽ Deportes",ESPN 3 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=87333fbd07061e38f418c7cfa29bb909e3693d3d1a640130108cf0902b908c0e
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN3&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=3a8f7b6381a74b90b39ba543f5d021c5d3e297e326bd686a89493f3e903c10eb
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 1
 http://nxt.plus:8080/olmos/1234guz/16915
 
 #EXTINF:-1 tvg-logo="https://1prox.com/upload/images/espn4.png" group-title="⚽ Deportes",ESPN 4 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=5d4e3c779c68979d4e036bb4b34b90158bc76c402e085cf4f381850ab25147c6
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN4&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=58601566d709a429fa8b6b5106b01aa715d6a67123a713f76e5ed5a784b0bf91
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 1
 http://181.205.130.194:4000/play/a085
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="⚽ Deportes",ESPN 5 Argentina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=f3f1a41357fd2c6de020b962ba006cd56264a358bde8b3b048eec1b7ff8082ad
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AESPN5&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=7d124b3413857b24d109a5a7e5fc2eee9935755433d642ec56baca1c4fdf7b21
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="⚽ Deportes",ESPN 6 Argentina OPC 1
 http://181.204.79.182:8202/play/a01x
@@ -201,7 +201,7 @@ http://181.205.130.194:4000/play/a07s
 http://181.204.79.182:8202/play/a01w
 
 #EXTINF:-1 tvg-name="ESPN BRASIL" tvg-logo="https://cdn.oantagonista.com/uploads/2020/03/espn-brasil-logo-1024x591.jpg" group-title="⚽ Deportes",ESPN BRASIL
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CEmhAoj80lcatCDAm21cNtM
+http://acessolite.top:80/057548607/500728747/1627714
 
 #EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="⚽ Deportes" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184080.ts
@@ -254,8 +254,14 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="⚽ Deportes",DAZN 2
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CAoMU2w5XkX9DdjBKubSj1bzHN3lQDdYlrov_BVKCEO6
 
-#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga
+#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga OPC 1
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/184124.ts
+
+#EXTINF:-1 tvg-id="Sky Sports La Liga" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports La Liga OPC 2
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Internacional" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports Internacional
+https://7pal.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="⚽ Deportes",SPORTV 1 
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CJsK19A4AunOXftPvvYEXniySTtNGACerN6_e1EaTt3i
@@ -264,7 +270,7 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CJsK19A4AunOXftPvvYEXniySTtNG
 http://prestigetv.site:80/live/962817086/GtpdUNHjRU/105641.ts
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i4cF0rXmUR8/maxresdefault.jpg" group-title="⚽ Deportes",SPORTV BRASIL
-https://anonmedia.foo/sportv/tracks-v1a1/mono.m3u8
+http://acessolite.top:80/057548607/500728747/239689
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⚽ Deportes",TIGO SPORTS OPC 1
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
@@ -393,7 +399,7 @@ http://181.205.130.194:4000/play/a06u
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=b1c04d4472bf2befed6f460893c4fc7247efa2b335525088f46c4a2c15ba875e
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=f183072a65db7c49a344704192aeba92ae4f6f9de6e9ace95b69184f01e0e505
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
 http://181.204.79.182:8202/play/a030
@@ -510,16 +516,16 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Cine Premiun",A&E OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=955b0664fff07381940129a89f9427df30ec96cc8f877d0744cb561463cd1b2d
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=75e6a2d4846f9cfd8718daefc9e04be5cf64959c4d9796bc516b0930870a25ff
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E OPC 2
 http://181.205.130.194:4000/play/a07n
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=5013226b5ea0acf2ad39c94318e80ba0c76abc0906eb1b4a0d923847454ecb8f
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=807f04a51fcd37d114e43b260c57976fac4526cf927ca7c4ae3472ca441137ce
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Premiun",GOLDEN EDGE
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENEDGE&content-expiration=1732984860&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732984860&signature-hash=9485e38ed364876cb6fa7569a6587f3236c85fb5e1d7f86098aa6d35ec836e40
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENEDGE&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=e6d2d5036b21e6fa4ade7b7d48696fbc1122d85a52934d583e34d65ff8a2eb2f
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/w1200-h630-p-k-no-nu/golden-premier.jpg" group-title="Cine Premiun",GOLDEN PREMIER 
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CEU6-tj-9p-vfrr9NW5HZGI
@@ -660,7 +666,7 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7COFO2VBHocj8pe_fJcdMJ2R5dP8VP
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CGastf4C3QbUUkZBKJSRnhDE0JlBEzbHYqairauo_qyo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=a8290c7cab1d7c2d395dcb7edd49891ba5b0c401b7b16c53a97d959f147ac7b0
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=f302eac304e9bff269a17498b8dfaff801d4d202695e277f6b43d8b63903f720
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
 http://181.204.79.182:8202/play/a02c
@@ -702,7 +708,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tlnovelas_m.png" group-title="Novelas",TLNOVELAS HD
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELENOVELAS&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=ab3dd5a20682731dce610a68599c5bd78c53535571b13b77b2d7162cd0dfc3bc
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELENOVELAS&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=26c2b5df977a90004a6e9127f6df9d9581c41d742d0fef39b6d324959a5491c4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 1
 http://181.78.4.186:8000/play/a0fn/index.m3u8
@@ -843,7 +849,7 @@ http://181.205.130.194:4000/play/a08s
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1732967400&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.209&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1732967400&signature-hash=f028bd23f2d5d200300d2512725ec0f0509f5c136cd54651a0b9465a16c59c99
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=85d0ab30fe7da3f71adf7ab0a7efd5b4245c7baae959732e00b9b95e6d156d4b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel OPC 1
 http://181.204.79.182:8202/play/a00c
