@@ -9,7 +9,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVMAS&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=d40bc911cd020f266eafe2c5d104929fc89b6d4764fa8242c5d2991d5e5b8754
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AATVMAS&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=b853afe5c52e7411c35a9f8d8e89eeced5815a10e774adba80cf554c3cd642bd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -24,13 +24,13 @@ http://200.60.124.19:29000/play/a008/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Canales Peru",Frecuencia Latina OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=372db25b6490fd28e00314be5b925a76c8faa547131c936eedd07fd3d0cd1ff6
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ALATINA&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=1e27f6dec6aec0ea8bb4341f58f54a855254a776ff3dd5c7c28a34ffaf0ebcdd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 1
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=24c231d035d493805816297fc33fb8d459fcf6566a7f130e1ffb9f7937f48ea4
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3APANAMERICANATV&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=2982aecba06924555b691a7253b515de2160cc4bd1846812f8d9dbcb38cca0ab
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Canales Peru",Canal N OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CCOweqaeqIW5mVXbf53KitRMFrn6aioXHX7XIUUzo-bV
@@ -48,13 +48,13 @@ http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=ade0e0dd9779e6d88c1aa28dd45b0052f8588bfd3efb1a6345a3877b91bf5765
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AEXITOSATV&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=2005d2e85d3cff4f74e21718162ce54ae35080dd56a2bbe957a84693ec057581
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 1
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CDNvlyWJH43RTCMrvKn2DB7-rOPps-2kdtHhax5ox2JA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=f2c3a181729d5648e9ba61bcee446d6da7b66348c5117601e485b403c64a8f0c
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AWILLAX&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=46ef8e423d1567cbe0e330105ba2541d36f25339aaaad97cd7874b366577df80
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV OPC 1
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -78,7 +78,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/640px-Congreso_TV.png" group-title="Canales Peru",CONGRESO TV
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ACANALCONGRESO&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=bb83803da08f4c92f23408abee00424c75e4874bbbf66b5d916d7c373b10dda8
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ACANALCONGRESO&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=6dc7992234aa7bc958289b54d44a22119b5cefef1a6886abb4d370927438632d
 
 #EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="Canales Peru",Uranio TV Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -99,7 +99,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WUAn4t3ORoaipngpmD8Vd7VB-0zFrZ0B0_Dq0eKysHzuIzbEBmAXwEuAey0ETMhFbsXSXFOJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Peru",Nativa OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ANATIVA&content-expiration=1733694240&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1733694240&signature-hash=3e945e923e1c4c8ae3f7ae956b6998c0c0620ef289546c2cbae047622007332c
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ANATIVA&content-expiration=1734493740&user-id=443558126&device-id=651119673&device-type=web&signature-ip=181.176.225.121&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1734493740&signature-hash=a5a882a35988808d98869018e102be93e0ede2ce515a7977172f0ec8f85b2b14
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7PcIBClzgPIDHxNRfO6vsBveUPo9w7QB6w&s" group-title="Canales Peru",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
