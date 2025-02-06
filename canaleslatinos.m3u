@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV OPC 1
-https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
+http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7COs3-6pnqaJAHbK-L7wzBGLTvrqsjFgDYooVRpJNcE3i
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV OPC 2
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
