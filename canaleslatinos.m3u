@@ -63,7 +63,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w2023509337.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Global_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20221102180116&path-prefix=es" group-title="Canales Peru",Global TV
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGLOBAL&content-expiration=1739547120&user-id=443558126&device-id=1496257274&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1739547120&signature-hash=f2a6af442bfc572c2e89fa9a40819609cf4ea62717b30558a5267771db17b2df
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="Canales Peru",TV Peru OPC 1
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
