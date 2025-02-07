@@ -42,7 +42,7 @@ http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CIjrqg5JV9SGyrA6B3f7vvUVThXH4
 http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CHDy_shdp2JGtT753QlteWfs3z9m5ccmNQaIn5ckIl9h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Canales Peru",RPP OPC 2
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ARPP&content-expiration=1739546940&user-id=443558126&device-id=1496257274&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=4&parallel-group=ps%3A1&lang=es&signature-expiration=1739546940&signature-hash=3bf4e08c2f1f6b2803c95b9bbd74765623a8c4ae20b82a7ce8f3662ee61aefb6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV OPC 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
