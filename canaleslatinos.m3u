@@ -68,7 +68,7 @@ http://181.205.130.194:4000/play/a07j
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 
 http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="⚽ Deportes",ESPN 6 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/2/espn-6-logo-png_seeklogo-522717.png" group-title="⚽ Deportes",ESPN 6 
 http://181.205.130.194:4000/play/a07t
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg" group-title="⚽ Deportes",ESPN 7 
