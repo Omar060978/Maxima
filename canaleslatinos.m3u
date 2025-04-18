@@ -92,125 +92,47 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85130
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine Premiun",HBO 2 OPC 1
-http://181.204.79.182:8202/play/a02u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine Premiun",HBO 2 OPC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine Premiun",HBO 2 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3qj8Jxxit0e98w5jgCnH1lylzetWIFbLug&s" group-title="Cine Premiun",HBO PLUS OPC 1
-http://181.204.79.182:8202/play/a02v
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3qj8Jxxit0e98w5jgCnH1lylzetWIFbLug&s" group-title="Cine Premiun",HBO PLUS OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3qj8Jxxit0e98w5jgCnH1lylzetWIFbLug&s" group-title="Cine Premiun",HBO PLUS
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family OPC 1
-http://181.204.79.182:8202/play/a02x
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Cine Premiun",HBO Family OPC 2
-http://181.78.105.146:6060/play/a00k
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO Xtreme OPC 1
-http://181.78.105.146:6060/play/a00l
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Cine Premiun",HBO XTREME OPC 2
-http://181.204.79.182:8202/play/a02w
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE OPC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/15043.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/211?cb=20240101073917" group-title="Cine Premiun",HBO POP
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT OPC 1
-http://181.205.130.194:4000/play/a09l
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT OPC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/Paramount%2B.png/revision/latest?cb=20220726031153&path-prefix=es" group-title="Cine Premiun",PARAMOUNT +
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86187.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPveleEO7q4rahRa6ntzk0BfaRxT95xSPKCA&s" group-title="Cine Premiun",NETFLIX 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86186.ts
-
-#EXTINF:-1 tvg-logo="https://images.hitpaw.com/topics/video-enhancer/amazon-prime-video-quality-1.jpg" group-title="Cine Premiun",AMAZON PRIME 
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/86184.ts
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX | OPC 1
-http://181.204.79.182:8202/play/a024
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX | OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX 
 http://200.115.96.66:4000/play/a0he/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 1 
-http://181.204.79.182:8202/play/a00m
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT 
 http://181.205.130.194:4000/play/a06n
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT OPC 3
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85164
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Cine Premiun",AMC OPC 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="Cine Premiun",AMC OPC 2
-http://181.205.130.194:4000/play/a09j
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" group-title="Cine Premiun",AMC OPC 3
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9HLagXxO1-DXMSVdZwekHx_FhUxzb4hIjx2smo0NdfwB3pYZqwWhLZQsdys4A7CZJ--q8Gr9SKI=s900-c-k-c0x00ffffff-no-rj" group-title="Cine Premiun",Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Cine Premiun",Lifetime
 http://181.205.130.194:4000/play/a06u
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 1
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Cine Premiun",AXN OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAXN&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=9ba094c84548048a8c201e9973f6ae69a8624f118d30823e2254526fd60a5d91
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s" group-title="Cine Premiun",Studio Universal
-http://181.204.79.182:8202/play/a030
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png" group-title="Cine Premiun",Universal OPC 1
-http://181.204.79.182:8202/play/a00e
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png" group-title="Cine Premiun",Universal OPC 2
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png" group-title="Cine Premiun",Universal
 http://181.205.130.194:4000/play/a06f
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Cine Premiun",Universal Cinema 
-http://181.204.79.182:8202/play/a033
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Cine Premiun",Universal Comedy 
-http://181.204.79.182:8202/play/a034
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere OPC 1
-http://181.204.79.182:8202/play/a032
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere 
 http://200.115.96.66:4000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner OPC 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner OPC 2
-http://181.204.79.182:8202/play/a01j
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Cine Premiun",Warner Channel
 http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 2
-http://181.204.79.182:8202/play/a00u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkc_ZUhgpkTHrmphP3mAYI0Iby1Nc1yG8Sw&s" group-title="Cine Standar",PELIS Y PORCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
@@ -224,14 +146,8 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine Premiun",Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine Premiun",Sony Channel 
-http://181.204.79.182:8202/play/a021
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqdcwau75RQ3veZfJ2WbadsbJvdvYz02WnQ&s" group-title="Cine Standar",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CnBVdrh/SEO-TV-PELICULAS-FHD-NEW.jpg" group-title="Cine Standar",SEO TV PELICULAS HD
-https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhC7D1P/AMERICA-TV-HD.jpg" group-title="Entretenimiento",AMERICA TV | ARGENTINA
 https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8
@@ -242,26 +158,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="CineXOXO.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/05/30/PLUTOCineXOXO_Channel_1080x1080_HeroSquare-srcdbued.png" group-title="Cine Standar",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel OPC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s" group-title="Musicales",The Retro Channel 02 OPC 2
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine OPC 1
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O_sGkRNprrEcLt3yrLMu5jdIMpG88Yf9yQ&s" group-title="Cine Standar",Frecuencia Cine OPC 2
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&s" group-title="Cine Standar",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4e16e17ef6e5badbb049e6be43ec134e4d40222df29793158fe98f97284a508e.png" group-title="Cine Standar",FILMRISE ESPAÑOL
-https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DpTYi3WkwJIWNfPZIBonDsYJGL8f6Pp4yKbET7k7_XVvNMWkwNKXmRYiKCpQzSyPdYQ" group-title="Cine Standar",MegaTV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdbTN87f7ZwM2s3-4YOBjKba42M1o5xcD4Q&s" group-title="Cine Standar",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -275,74 +179,32 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/Manuales/2022/03/canal-plutotv-action-720x349.jpg" group-title="Cine Standar",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ3jbI8gusmZb6eO7_JTFGHd9Vpq6fcAxDA&s" group-title="Cine Standar",Rakuten Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/PTBB700018CK_20230309T012415SQUARE.png_20230309012415.png&h=250" group-title="Cine Standar",Rakuten Family
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1428359029923799043/BQ-cMvfH_400x400.jpg" group-title="Cine Standar",Salto TV
-https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPsoBxWDWYaP59aELUi9ekudNOAONyN11Q&s" group-title="Cine Standar",Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine Standar",De Pelicula
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Cine Premiun",A&E OPC 1
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AAandEMUNDO&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=4361dc36c77439ce960d49d34e8a0226087ddad52585741bc837799b62c2bed3
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E OPC 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844" group-title="Cine Premiun",A&E
 http://181.205.130.194:4000/play/a07n
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/8f/Golden_2020.png/revision/latest?cb=20220131134724&path-prefix=es" group-title="Cine Premiun",GOLDEN
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENLATINO&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=23969560639b661a0eac79f95575734af50db80add381dedae8cfa18f9624d63
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es" group-title="Cine Premiun",GOLDEN EDGE
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AGOLDENEDGE&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=baf3637c514dde451c1b39b3fa6d1e6525abd3e632b31027fe2bafe1bafeca4b
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnT8Etb9rkVUqlZqkBAOMR4n1h1R2AT654J4aiE9m27URDx_G3pXO9aS2FLYa_3HFuLm92vprvUSjt-LLTgQEd8GseKkEnFhHfFSULJGZYEk1ElRn7BnAH0tq2WtgJjIbpAcQV6BK9lz09GdvEwwNfQJ7sQHUgXNLAckCHu9Z3dAvunEvSTuF1AbS/w1200-h630-p-k-no-nu/golden-premier.jpg" group-title="Cine Premiun",GOLDEN PREMIER 
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CEU6-tj-9p-vfrr9NW5HZGI
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Cine Premiun",CLOVER CHANNEL
 http://160.20.165.246:8000/play/a006/index.m3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2T7Ni_saS2lVV4xbaQaIAZOp9YHZicf_ng&s" group-title="Cine Premiun",STAR CHANNEL OPC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2T7Ni_saS2lVV4xbaQaIAZOp9YHZicf_ng&s" group-title="Cine Premiun",STAR CHANNEL
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2T7Ni_saS2lVV4xbaQaIAZOp9YHZicf_ng&s" group-title="Cine Premiun",STAR CHANNEL OPC 2
-http://181.204.79.182:8202/play/a00j
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX OPC 1
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX OPC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal OPC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal 
 http://181.205.130.194:4000/play/a06e
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal OPC 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Cine Premiun",Space OPC 1
-http://181.204.79.182:8202/play/a023
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Cine Premiun",Space OPC 2
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Cine Premiun",Space
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" group-title="Cine Premiun",TCM OPC 1
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/13688.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" group-title="Cine Premiun",TCM OPC 2
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7COQiguBirL02-uUDjNXENc4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3OUrdRsoIBoguJ00VCTAIqR7l6HVi0XikA&s" group-title="Cine Standar",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2BzgfgHAsGyFl1XSOEP7XQJ6Xfg4JVM0Y7XdtNVUEelbzYKmw3X6lgvILow5BhOBxImM" group-title="Cine Standar",Bellavision
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSsTfSFQf0lJAfEbvSYtLJV5aViQjgfmn8g&s" group-title="Musicales",MTV Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
@@ -362,9 +224,6 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/a/a/0aa84db9ccb645183fd4b7cfa2133a46_fgraphic.png" group-title="Musicales",Retro Music Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp_qveHTYRvKpZTMfO6DxNvX39oBTe16tBw&s" group-title="Entretenimiento",Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Cine Standar",Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
@@ -376,9 +235,6 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" group-title="Cine Standar",Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSuQuW2mw5Qfeb_V4cD-pivPhA7ZJxY9dXCg&s" group-title="Musicales",Radio Oxigeno
-http://tvdirecto.pro:8080/live/omaroblitas/omaroblitas/60700.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="Musicales",HTV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
@@ -404,9 +260,6 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kXz5vhzyeuHXVayTPj5QHTDIsxf9ZDNSBw&s" group-title="Musicales",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d2dd665cad0adf6b5b30cb30b70cb79f.webp" group-title="Entretenimiento",Antares TV
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CKwG_7vXnqaoCqTQmMvZUt5WDrPb-EliV5n1-DXS_hmn
-
 #EXTINF:-1 tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/133fb9a/2147483647/strip/true/crop/2385x1590+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F60%2F5efeae6049d5876d1cc683562911%2Fmtv-logo.jpg" group-title="Entretenimiento",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 
@@ -422,56 +275,23 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01719318650613.png" group-title="Niños",Clan TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="Niños",Disney OPC 1
-http://168.181.122.234:8000/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="Niños",Disney OPC 2
+#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="Niños",Disney Channel
 http://181.205.130.194:4000/play/a07c
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1024px-Disney_Jr._2024.svg.png" group-title="Niños",Disney Jr
-http://181.204.79.182:8202/play/a02y
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="Niños",Cartoon Network OPC 1
 http://181.205.130.194:4000/play/a06m
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="Niños",Cartoon Network OPC 2
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7COFO2VBHocj8pe_fJcdMJ2R5dP8VP5A1KUa6cil_QlvT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 1
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CGastf4C3QbUUkZBKJSRnhDE0JlBEzbHYqairauo_qyo
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ADISCOVERYKIDS&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=9c8ae80b92227b21c05554499152e0fbc7bee260bfe1126e4e64390244939bcc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
-http://181.204.79.182:8202/play/a02c
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210814024757" group-title="Niños",Nickelodeon OPC 1
 http://181.205.130.194:4000/play/a06b
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210814024757" group-title="Niños",Nickelodeon OPC 2
-http://181.204.79.182:8202/play/a00a
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="Niños",GOGOPLAY TV 
-https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f7cd31de6ccf57743fc8941e725c1327de4cff8566c64a5abfc76b6ca1019195.jpg" group-title="Niños",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/126371731/s718/el-chapulin-colorado.jpg" group-title="Niños",El Chapulin Colorado
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/174383.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVQTwE_eyqyyv1BK8ZCA9uKob0Sch8pq8Vg&s" group-title="Entretenimiento",Jefes de la Cocina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Entretenimiento",E Entertainment OPC 1
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Entretenimiento",E Entertainment
 http://181.205.130.194:4000/play/a07g
-
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="Entretenimiento",E Entertainment OPC 2
-http://181.204.79.182:8202/play/a01k
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzw7eOp-bWXjRR_eDKfhgihkT3H7mnc8tcw&s" group-title="Musicales",interTV
-https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png" group-title="Cine Standar",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -482,28 +302,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/uUDVAqZNNYIdwhD_5n3zGbTyLpufAe6gskMgp9BroYQ.jpg" group-title="Novelas",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tlnovelas_m.png" group-title="Novelas",TLNOVELAS HD
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3ATELENOVELAS&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=f1525b097d3a894aef3da0e4b014f367d31cced78256a23e6472e434574d896d
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS OPC 2
-http://181.204.79.182:8202/play/a03u
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeNPFGhAv5vv5l1NabbGuWPynbe5xb0x6jg&s" group-title="Novelas",RCN Novelas OPC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeNPFGhAv5vv5l1NabbGuWPynbe5xb0x6jg&s" group-title="Novelas",RCN Novelas
 http://181.205.130.194:4000/play/a07v
 
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504" group-title="Novelas",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novelas",Kanal D Drama OPC 1
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CKgV9gBlW6tXHj-Hz_RnkVQ
-
-#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/eUhx6RYiv0.lmQ06raI1UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM0NQ--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="Novelas",La Rosa de Guadalupe
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CPOpx9n2kR0F0i7IW-KkrTZ406bL0r25y-ajrJT9iSfx
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0boQSFJ1V5D3Y4jBvYFmxnHSsgzrKdJ4qQ&s" group-title="Novelas",Amantes del romance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipuLCWX.png" group-title="Novelas",Amantes del romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="Novelas",RCN Mas
@@ -512,14 +320,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Entretenimiento",Canal RCN
 http://181.205.130.194:4000/play/a08f
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="Entretenimiento",RCN Xtra
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="Entretenimiento",Canal Caracol OPC 1
 http://181.205.130.194:4000/play/a0ck
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="Entretenimiento",Canal Caracol OPC 2
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CH00kzmr88ltanhu9sAu-Gk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Entretenimiento",El Trece OPC 1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
@@ -530,34 +332,16 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Canal Estrellas
 http://181.205.130.194:4000/play/a07r
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo OPC 1
-http://181.204.79.182:8202/play/a01y
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo OPC 2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo 
 http://181.205.130.194:4000/play/a07u
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC OPC 1
-http://181.204.79.182:8202/play/a01t
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC
 http://181.205.130.194:4000/play/a07p
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbj38KBHm79VX9Fv9x-uwuMsqUbgNT884iKA&s" group-title="Entretenimiento",MTV
 http://181.205.130.194:4000/play/a06h
 
-#EXTINF:-1 tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Cine Standar",Classic Channel
-https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2024/07/logo-web-300x205-1.png" group-title="Entretenimiento",TDT Multimedia
-https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Entretenimiento",TeleSUR OPC 1
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE OPC 1
-http://181.204.79.182:8202/play/a00r
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE OPC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE
 http://181.205.130.194:4000/play/a06s
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE Internacional America
@@ -575,17 +359,11 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mxs5Kjii-H8fPLtSEhsjRIIJLD8qTPcaFA&s" group-title="Entretenimiento",Acapulco Shore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265963-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3501e14d-3aa6-47f7-ad8a-0ab55cff76eb
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="Culturales",DW Español OPC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="Culturales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="Culturales",DW ESPAÑOL OPC 2
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnGBuqonPFbYp1o-SRSX4hJcxk8Fn18OHcajjKbfQjAwOPUiLZFFuqsS7GugYrKMPNGI&usqp=CAU" group-title="Culturales",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="Culturales",TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFmTQqgLaCKoz0jVq-tyEpzu5sjcu2wauGg&s" group-title="Culturales",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
@@ -599,48 +377,20 @@ http://181.205.130.194:4000/play/a0b6
 #EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel OPC 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjr5vZACWAmzBhGZrV0oMWlfLb25p23_raSQ&s" group-title="Culturales",Discovery ID
-http://181.205.130.194:4000/play/a07w
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Culturales",Discovery World HD
-http://181.205.130.194:4000/play/a0c2
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Culturales", Discovery Science
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_23131.png.12e9f6c1fadffdb8c0d9f8a8bbf23c57.png" group-title="Culturales",Discovery HomeandHealth OPC 1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="Culturales",Discovery HomeandHealth OPC 2
-http://181.204.79.182:8202/play/a03w
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/hrltx12pl8hq/2Kx5jH6dL3PJ3GH2jt8LNc/6cedd8d668703327b943bd59e41d47eb/logo_ngtv.jpg?fit=fill&w=480&h=268" group-title="Culturales",Nat Geo OPC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Culturales",Nat Geo 
 http://181.205.130.194:4000/play/a06c
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/hrltx12pl8hq/2Kx5jH6dL3PJ3GH2jt8LNc/6cedd8d668703327b943bd59e41d47eb/logo_ngtv.jpg?fit=fill&w=480&h=268" group-title="Culturales",Nat Geo OPC 2
-http://181.205.130.194:4000/play/a08s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 2
-https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AANIMALPLANET&content-expiration=1741896600&user-id=1002752502&device-id=748054254&device-type=web&signature-ip=181.177.238.104&stream-quality=40&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&ott=0&parallel-limit=3&parallel-group=ps%3A1&lang=es&signature-expiration=1741896600&signature-hash=0d35b359f89888d34d6e4e2453efbf4e50cb69fe5bebea8011801494c1da6be8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel OPC 1
-http://181.204.79.182:8202/play/a00c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel OPC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel
 http://181.205.130.194:4000/play/a06d
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Culturales",HISTORY 2 OPC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Culturales",HISTORY 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
-
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/history2-hd.png" group-title="Culturales",HISTORY 2 OPC 2
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
-
-#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/8300e9c4-118c-4314-b39a-aab6fe794ee4_16-9-discover-aspect-ratio_default_0.jpg" group-title="Culturales",TOROS TV
-http://prestigetv.site:80/play/RICPl3yoaoOhWNy5sVk7CAOZkHK0JlA52dYWZTW6AolKrMGNtlxfHy8aLMQHlBcF
-
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Culturales",MUNDOTORO OPC 2
-http://prestigetv.site:80/live/962817086/GtpdUNHjRU/178520.ts
-
