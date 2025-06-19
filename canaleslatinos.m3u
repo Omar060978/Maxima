@@ -83,29 +83,8 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wzy9FLucDGT78DprAgEOeYQ/ts
 #EXTINF:-1 tvg-id="Sky Sports Internacional" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports Internacional
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⚽ Deportes",TIGO SPORTS 
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Cine Premiun",HBO 
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85130
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine Premiun",HBO 2 
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3qj8Jxxit0e98w5jgCnH1lylzetWIFbLug&s" group-title="Cine Premiun",HBO PLUS
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Cine Premiun",HBO SIGNATURE
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/211?cb=20240101073917" group-title="Cine Premiun",HBO POP
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="Cine Premiun",PARAMOUNT
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
