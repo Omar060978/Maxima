@@ -1,4 +1,4 @@
-#EXTM3U
+f#EXTM3U
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
@@ -104,12 +104,6 @@ http://181.205.130.194:4000/play/a06f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere 
 http://200.115.96.66:4000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/bc/Warner_Channel_logo.svg/revision/latest?cb=20240131200905" group-title="Cine Premiun",Warner 
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5987c5e2-c512-4b15-9225-006e0d6d7737_m.jpg" group-title="Cine Premiun",Warner Channel
-http://168.181.122.234:8000/play/a00w/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
 
@@ -118,9 +112,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png" group-title="Cine Standar",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVRHS2sCyOvnMM8o9vJ1-HZgclP-rVkVRJA&s" group-title="Cine Standar",Cáscara TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s" group-title="Cine Premiun",Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -170,17 +161,8 @@ http://181.205.130.194:4000/play/a07n
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="Cine Premiun",CLOVER CHANNEL
 http://160.20.165.246:8000/play/a006/index.m3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2T7Ni_saS2lVV4xbaQaIAZOp9YHZicf_ng&s" group-title="Cine Premiun",STAR CHANNEL
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="Cine Premiun",CINEMAX
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal 
 http://181.205.130.194:4000/play/a06e
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Cine Premiun",Space
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3OUrdRsoIBoguJ00VCTAIqR7l6HVi0XikA&s" group-title="Cine Standar",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -221,14 +203,8 @@ https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaPVaAHDUVDMy_XUdeN7X3X2jLd8FCF0fXA&s" group-title="Musicales",CPN
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2217-294x165-FFFFFF.jpg" group-title="Musicales",LA MIA TV
-https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1806110311583195136/ywisD-va_400x400.jpg" group-title="Entretenimiento",Invasiva TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmGzU-S8lMy1w5SCvGcaADVnJ8xtZOmWogA&s" group-title="Entretenimiento",MiTV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxSaPy6Fm1094-r5Fb-GeJqgY4cqsNBjbZQ&s" group-title="Musicales",STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
@@ -236,25 +212,16 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhujq6FnVzaPbcXN5QcD4ODdN-qovYXce0XQpMIL-XyhSzXBYzw7U701_619JvYbOCqikb9adWXUiIAWt26p8E3iy-hlaoi5VkzKndNg9tJhuVqAwcogs-LBFNdGPPi-vG8fc_OD8C7IxE/s580/tv-exitos-canal-roku.jpg" group-title="Musicales",TV Exitos
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kXz5vhzyeuHXVayTPj5QHTDIsxf9ZDNSBw&s" group-title="Musicales",TVUNO
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/133fb9a/2147483647/strip/true/crop/2385x1590+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F60%2F5efeae6049d5876d1cc683562911%2Fmtv-logo.jpg" group-title="Entretenimiento",MTV
+#EXT#EXTINF:-1 tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/133fb9a/2147483647/strip/true/crop/2385x1590+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F60%2F5efeae6049d5876d1cc683562911%2Fmtv-logo.jpg" group-title="Entretenimiento",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1761972439863402496/HYFYy2Zg_400x400.jpg" group-title="Entretenimiento",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO.png" group-title="Entretenimiento",Cable Sur TV
-https://tvlatina.live:1936/8012/8012/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ldlwKw2kJgiaPmFz90tXoKh6sIozenyKz3nF3y-HKDO6I=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01719318650613.png" group-title="Niños",Clan TVE Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="Niños",Disney Channel
+#EXT#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="Niños",Disney Channel
 http://181.205.130.194:4000/play/a07c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="Niños",Cartoon Network OPC 1
@@ -277,9 +244,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Novelas",Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/uUDVAqZNNYIdwhD_5n3zGbTyLpufAe6gskMgp9BroYQ.jpg" group-title="Novelas",Novelisima
-https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__g-ObZvv-WMnYsfZWV_fFCd7R5UMx6bl8w&s" group-title="Novelas",TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
@@ -323,15 +287,6 @@ http://181.205.130.194:4000/play/a06h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE
 http://181.205.130.194:4000/play/a06s
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="Entretenimiento",TVE Internacional America
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhiXyIky3I1jdX0atfQJosoCtKBaF_GMkvfQ&s" group-title="Entretenimiento",TVE Star HD
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzfTJOz2iT9HpZYFGCoCCt_c2uDXi4qecYQ&s" group-title="Entretenimiento",ANTENA 3 HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354058
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTshQGAocwoIYU6RZrE7s7BTlnmPLam8ogw&s" group-title="Cine Standar",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
@@ -341,35 +296,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="Culturales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnGBuqonPFbYp1o-SRSX4hJcxk8Fn18OHcajjKbfQjAwOPUiLZFFuqsS7GugYrKMPNGI&usqp=CAU" group-title="Culturales",Oxigeno TV
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFmTQqgLaCKoz0jVq-tyEpzu5sjcu2wauGg&s" group-title="Culturales",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Culturales",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel OPC 1
+#EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel 
 http://181.205.130.194:4000/play/a0b6
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel OPC 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Culturales", Discovery Science
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_23131.png.12e9f6c1fadffdb8c0d9f8a8bbf23c57.png" group-title="Culturales",Discovery HomeandHealth OPC 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Culturales",Nat Geo 
 http://181.205.130.194:4000/play/a06c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Culturales",Animal Planet OPC 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel
 http://181.205.130.194:4000/play/a06d
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Culturales",HISTORY 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
