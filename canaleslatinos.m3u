@@ -77,6 +77,9 @@ http://181.205.130.194:4000/play/a07s
 #EXTINF:-1 tvg-name="ESPN BRASIL" tvg-logo="https://cdn.oantagonista.com/uploads/2020/03/espn-brasil-logo-1024x591.jpg" group-title="⚽ Deportes",ESPN BRASIL
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.ts
 
+#EXTINF:-1 tvg-name="ESPN PLUS" tvg-logo="https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original" group-title="⚽ Deportes",ESPN PLUS
+http://applazer.online:80/live/techsat/1234567/286687.ts
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i4cF0rXmUR8/maxresdefault.jpg" group-title="⚽ Deportes",SPORTV BRASIL
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.ts
 
