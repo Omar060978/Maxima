@@ -1,12 +1,12 @@
 f#EXTM3U
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAZ5LUh1rby-sG17T5NqB5nrhRcqLW3-NHA&s" group-title="Canales Peru",América TV 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2839001811&_cdn_token=ccde1f651b7d077c275b87ff03ba448a5ffcf3d7
