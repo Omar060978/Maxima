@@ -24,7 +24,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_480p/chunk
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV 
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1431789275.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Global_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20221102180116&path-prefix=es" group-title="Canales Peru",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
@@ -62,6 +62,9 @@ https://live-evg12.tv360.bitel.com.pe/8134/8134/chunklist_w25439909.m3u8?uid=215
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdNOMczuxzjtaQhp_Ool4tcMn4QfEXxonMQ&s" group-title="Canales Peru",Antena Uno
 https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Congreso_TV.png" group-title="Canales Peru",Congreso TV
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN Chile 
 http://181.205.130.194:4000/play/a07j
 
@@ -85,6 +88,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.ts
 
 #EXTINF:-1 tvg-id="Sky Sports Internacional" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports Internacional
 https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 tvg-id="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="⚽ Deportes",Bein Sports
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlistR480p.m3u8
 
 #EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -110,7 +116,7 @@ http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkc_ZUhgpkTHrmphP3mAYI0Iby1Nc1yG8Sw&s" group-title="Cine Standar",PELIS Y PORCORN
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/coliap/coliap1110/coliap111001249/10888392-movie-film-with-popcorn-isolated-on-white-background.jpg" group-title="Cine Standar",PELIS Y PORCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
 #EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png" group-title="Cine Standar",Caracola TV
@@ -165,7 +171,7 @@ http://181.205.130.194:4000/play/a07n
 http://160.20.165.246:8000/play/a006/index.m3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal 
-http://181.205.130.194:4000/play/a06e
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3OUrdRsoIBoguJ00VCTAIqR7l6HVi0XikA&s" group-title="Cine Standar",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -280,6 +286,9 @@ http://181.205.130.194:4000/play/a07r
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo 
 http://181.205.130.194:4000/play/a07u
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo-acci-n-fclogo-72-color.png" group-title="Entretenimiento",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_caption.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC
 http://181.205.130.194:4000/play/a07p
