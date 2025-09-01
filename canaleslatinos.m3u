@@ -1,6 +1,6 @@
 f#EXTM3U
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_66323497791345655_480p.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_66323497791345655_480p%26expired%3D1757298636%26token%3D9BE0DA997DB7C35D00E40712D726B4E0&timestamp=1756698643736
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_480p/chunks.m3u8
