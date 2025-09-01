@@ -3,7 +3,7 @@ f#EXTM3U
 https://live-magisproweb.yamyday.com/live/cyx_66323497791345655_480p.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_66323497791345655_480p%26expired%3D1757298636%26token%3D9BE0DA997DB7C35D00E40712D726B4E0&timestamp=1756698643736
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ OPC 1
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_Ho831Zoq14KraVDv.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_Ho831Zoq14KraVDv%26expired%3D1757298636%26token%3D928B1ED60521328BB20975D7E7CAC393&timestamp=1756699156394
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/ATV_sur_2011.png" group-title="Canales Peru",ATV SUR
 https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
@@ -15,19 +15,19 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b21617074229677dc330d194b&sid=ba5t1l1xb2980775490677dc333293d6&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DzY2yFw/PANAMERICANA-HD.jpg" group-title="Canales Peru",PANAMERICANA HD
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_fL3eb28RZr5OpaE_480p.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_fL3eb28RZr5OpaE_480p%26expired%3D1757298636%26token%3DE6CEFD817DEED3B71A951A342866F285&timestamp=1756699368032
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L5KcG5D/EXITOSA-HD.jpg" group-title="Canales Peru",EXITOSA TV 
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_3493777623654186599292010205.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_3493777623654186599292010205%26expired%3D1757298636%26token%3D6E20F43E461973B0275E0D1EE33C6D7B&timestamp=1756699566668
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Canales Peru",Willax TV 
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_79332479206523928186_480p.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_79332479206523928186_480p%26expired%3D1757298636%26token%3D0E70D8CC7025DC5B4C807C716F0A5860&timestamp=1756699518488
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/800px-Sol_tv_pe.png" group-title="Canales Peru",Sol TV 
 https://video03.logicahost.com.br/soltv/soltv/chunklist_w1431789275.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Global_TV_2010.svg/revision/latest/scale-to-width-down/200?cb=20221102180116&path-prefix=es" group-title="Canales Peru",Global TV
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
+https://live-magisproweb.yamyday.com/live/cyx_0287205929497157264057306537.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx_0287205929497157264057306537%26expired%3D1757298636%26token%3D5CAC7B31067CBA8422AA1AC5DD37B3DF&timestamp=1756699659836
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s" group-title="Canales Peru",TV Peru
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
@@ -171,7 +171,7 @@ http://181.205.130.194:4000/play/a07n
 http://160.20.165.246:8000/play/a006/index.m3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine Premiun",Cinecanal 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
+https://live-magisproweb.yamyday.com/live/cyx-222C0D274909bcf12CEACB4_480p.m3u8?content_auth2=dev_id%3D5b84eee1%26client_ip%3D190.239.208.39%26app_ver%3D10002%26media_encrypted%3D0%26sign_type%3Dcs%26session_id%3DeOPLiH4AWGru%26auth_id%3D23298953_com.magispro.webs__0%26app_id%3Dcom.magispro.webs%26user_id%3D23298953%26link%3Dcf%26spared_addr%3D%26main_addr%3Dhttps://live-magisproweb.yamyday.com/v3/youshi/%26expired%3D1756712078%26tag%3D68F0E1%26check_play_ip%3Dtrue%26token%3D35EEB14257A8A4C65C220106501308D3&content_license2=app_id%3Dcom.magispro.webs%26tag%3D68F0E1%26scheme%3Dmd5-01%26media_code%3Dcyx-222C0D274909bcf12CEACB4_480p%26expired%3D1757298482%26token%3D2943D45514C407F60309D8D26276148A&timestamp=1756700029672
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3OUrdRsoIBoguJ00VCTAIqR7l6HVi0XikA&s" group-title="Cine Standar",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -286,9 +286,6 @@ http://181.205.130.194:4000/play/a07r
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s160-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento",Telemundo 
 http://181.205.130.194:4000/play/a07u
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo-acci-n-fclogo-72-color.png" group-title="Entretenimiento",Telemundo Accion
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_caption.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lO4hCxIpkTtN6P1mXjbrAB6nzrEJ22zPbQ&s" group-title="Entretenimiento",TLC
 http://181.205.130.194:4000/play/a07p
