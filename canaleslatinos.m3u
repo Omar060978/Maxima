@@ -68,8 +68,17 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN Chile 
 http://181.205.130.194:4000/play/a07j
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN 2 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b2/ESPN2_2006.png/revision/latest?cb=20220202143107&path-prefix=es" group-title="⚽ Deportes",ESPN Colombia
 http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN ARGENTINA
+http://supersonictv.live:8080/Sonya123/Sonya123/5100
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN MEXICO
+http://supersonictv.live:8080/Sonya123/Sonya123/22222
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nlVlIC7MgmUdIaBmD60wZN1vk-5vsxCfDA&s" group-title="⚽ Deportes",ESPN 4 
+http://supersonictv.live:8080/Sonya123/Sonya123/5097
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VUhFxO7U4xEE3vn5OirOrhjFJtaS8nN_9g&s" group-title="⚽ Deportes",ESPN 6 
 http://181.205.130.194:4000/play/a07t
@@ -80,20 +89,11 @@ http://181.205.130.194:4000/play/a07s
 #EXTINF:-1 tvg-name="ESPN BRASIL" tvg-logo="https://cdn.oantagonista.com/uploads/2020/03/espn-brasil-logo-1024x591.jpg" group-title="⚽ Deportes",ESPN BRASIL
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.ts
 
-#EXTINF:-1 tvg-name="ESPN PLUS" tvg-logo="https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original" group-title="⚽ Deportes",ESPN PLUS
-http://applazer.online:80/live/techsat/1234567/286687.ts
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i4cF0rXmUR8/maxresdefault.jpg" group-title="⚽ Deportes",SPORTV BRASIL
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21000.ts
 
-#EXTINF:-1 tvg-id="Sky Sports Internacional" tvg-logo="https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw" group-title="⚽ Deportes",Sky Sports Internacional
-https://7pal.short.gy/skyspt1nz
-
-#EXTINF:-1 tvg-id="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/2560px-Bein_Sports_Logo.svg.png" group-title="⚽ Deportes",Bein Sports
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlistR480p.m3u8
-
-#EXTINF:-1 tvg-id="Ovacion TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ Deportes",Ovacion TV 
-https://live-evg25.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="⚽ Deportes",FOX SPORTS
+http://supersonictv.live:8080/Sonya123/Sonya123/5118
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
