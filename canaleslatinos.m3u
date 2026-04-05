@@ -44,6 +44,9 @@ http://supersonictv.live:8080/Sonya123/Sonya123/22222
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="⚽ Deportes",ESPN 2 MEXICO
 http://supersonictv.live:8080/Sonya123/Sonya123/61275
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAKHBBrHcGAAPmnMO27I79AqYSSiahrzYRA&s" group-title="⚽ Deportes",ESPN 3
+http://supersonictv.live:8080/Sonya123/Sonya123/5099
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nlVlIC7MgmUdIaBmD60wZN1vk-5vsxCfDA&s" group-title="⚽ Deportes",ESPN 4 ARGENTINA
 http://supersonictv.live:8080/Sonya123/Sonya123/5097
 
@@ -88,9 +91,6 @@ http://supersonictv.live:8080/Sonya123/Sonya123/85911
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSALZ31CSIyN4JwWpMwCiyFw_3-zY_hdxuQQ&s" group-title="⚽ Deportes",MOVISTAR DEPORTES ESPAÑA
 http://supersonictv.live:8080/Sonya123/Sonya123/85946
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" group-title="Cine Premiun",Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtfNDlFotzWL9CNZJMNTletrgnweerzjz4w&s" group-title="Cine Premiun",FX 
 http://200.115.96.66:4000/play/a0he/index.m3u8
