@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_atv_m.png" group-title="Canales Peru",ATV
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Canales Peru",ATV+ 
 https://live-evg20.tv360.bitel.com.pe/DRR35edWlVIeGzj9E8JQIA/1775435568/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
 
@@ -99,16 +96,40 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://200.115.96.66:4000/play/a0he/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm97ocaTMAqgHS_WCP1A0OvwF0RTJWoV1g&s" group-title="Cine Premiun",TNT 
+http://supersonictv.live:8080/Sonya123/Sonya123/61348
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png" group-title="Cine Premiun",Cinecanal
+http://supersonictv.live:8080/Sonya123/Sonya123/61253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Cine Premiun",Cinemax
+http://supersonictv.live:8080/Sonya123/Sonya123/61254
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbErXn3loVR9uuisflyGfxBtfglDEkbnE2gg&s" group-title="Cine Premiun",Golden Plus
+http://supersonictv.live:8080/Sonya123/Sonya123/61305
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Cine Premiun",Lifetime
 http://181.205.130.194:4000/play/a06u
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjeBtgIZDghYnMFORbB4omo8eNG2vbGbfFA&s" group-title="Cine Premiun",HBO
+http://supersonictv.live:8080/Sonya123/Sonya123/61810
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwafmvqvB5Z17qku4OdEw1tRi7H6nDAFvbA&s" group-title="Cine Premiun",HBO 2
+http://supersonictv.live:8080/Sonya123/Sonya123/5127
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="Cine Premiun",HBO Family
+http://supersonictv.live:8080/Sonya123/Sonya123/5128
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwafmvqvB5Z17qku4OdEw1tRi7H6nDAFvbA&s" group-title="Cine Premiun",HBO Plus
+http://supersonictv.live:8080/Sonya123/Sonya123/5129
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ467nwICDyG9a8L8z1NnsdWtF4HILtdvr5PA&s" group-title="Cine Premiun",HBO Signature
+http://supersonictv.live:8080/Sonya123/Sonya123/5130
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png" group-title="Cine Premiun",Universal
-http://181.205.130.194:4000/play/a06f
+http://supersonictv.live:8080/Sonya123/Sonya123/5178	
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Cine Premiun",Universal Premiere 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UFTDTNjtSQ7LW7UITnhbu8K5Zx8WgbUQrA&s" group-title="Cine Premiun",Studio Universal
+http://supersonictv.live:8080/Sonya123/Sonya123/61336	
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/8/8e/Syfy_logo.png/revision/latest/scale-to-width-down/300?cb=20240225163249" group-title="Cine Premiun",SyFy OPC 1
 http://181.205.130.194:4000/play/a06v
@@ -197,6 +218,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXT#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="Niños",Disney Channel
 http://181.205.130.194:4000/play/a07c
 
+#EXT#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" group-title="Niños",Discovery Kids
+http://supersonictv.live:8080/Sonya123/Sonya123/61263
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="Niños",Cartoon Network 
 http://181.205.130.194:4000/play/a06m
 
@@ -248,11 +272,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Culturales",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/0036df/discovery_logo/650_1200.jpg" group-title="Culturales",Discovery Channel 
-
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3ae4fdae2f02f07e9c75247599b40a254fb9dd3b0c8e5ed09ade9272cc6a12e7.png" group-title="Culturales",Discovery
+http://supersonictv.live:8080/Sonya123/Sonya123/61885
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Culturales",Nat Geo 
-
+http://supersonictv.live:8080/Sonya123/Sonya123/85932
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Culturales",History Channel
-
+http://supersonictv.live:8080/Sonya123/Sonya123/61812
